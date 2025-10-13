@@ -1,248 +1,397 @@
-[{
-    "title": "The Beekeeper (2024)",
-"photo1": "https://www.dropbox.com/scl/fi/4pkpcdwxwvh8wec8ftxmq/MV5BNmJjMmJkYWEtM2EwMy00YWUzLTg0ZTgtZTY0OTBhYmM2Y2QzXkEyXkFqcGdeQXVyMDc5ODIzMw-._V1_.jpg?rlkey=0ku0a9n070r6bhx24mw36i2bc&dl=1",
-"photo2": "https://www.dropbox.com/scl/fi/4pkpcdwxwvh8wec8ftxmq/MV5BNmJjMmJkYWEtM2EwMy00YWUzLTg0ZTgtZTY0OTBhYmM2Y2QzXkEyXkFqcGdeQXVyMDc5ODIzMw-._V1_.jpg?rlkey=0ku0a9n070r6bhx24mw36i2bc&dl=1",
-"photo3": "https://www.dropbox.com/scl/fi/l7su9gld2o4132sv8poy6/tL8fzn7JaBzRJKsE1W6GrVxmMQj.jpg?rlkey=7lap739x39h2mh8lqmbyg1agj&dl=1",
-"photo4": "https://www.dropbox.com/scl/fi/jrhy3hmqglriivourfa07/5z2mJLAM6pbJcjECVItZkfnPt4c.jpg?rlkey=0ovviqyys32w67kium1g8jrk1&dl=1",
-"photo5": "https://www.dropbox.com/scl/fi/bpqni3324vxhi1xj0ra2y/4cZGW4WhJ5kNfdxknqjvUgzxcJA.jpg?rlkey=gfzwxbfsmmtdqu9xmzwcnhutk&dl=1",
-    "description": "The Beekeeper (2024)
+[
 
-ကတုံးမင်းသား ဂျေဆင်ရဲ့ ရုံတင်အက်ရှင်ကားအသစ်လာပါပြီ။ Equalizer နဲ့ John Wick နဲ့ Jason Bourne စပ်ကျထားတဲ့ သားပေါက်လေးလိုပဲ ကြမ်းပါတယ်။ ဒါရိုက်တာက Suicide Squad ရဲ့ဒါရိုက်တာ David Ayer ပါ။ ဇာတ်ညွှန်းရေးဆရာက Equilibrium တို Law Abiding Citizen တိုကိုရေးတဲ့ Kurt Wimmer ပါပဲ။
+  {
+    "title": "12 to Midnight (2024)",
+    "photo1": "https://www.dropbox.com/scl/fi/eq316isooiji3iprvvnyr/images-7.jpeg?rlkey=ufbfp5i289fgtngu77z900dt0&st=sh00wcyg&dl=1",
+    "photo2": "https://www.dropbox.com/scl/fi/0fxhx2y43ejqlr5xsf6xm/maxresdefault-1.jpg?rlkey=rsxdbn937tbwgz7cn7zyke9rb&st=xpdlbwqi&dl=1",
+    "description": "12 to Midnight (2024)
+
+ဇာတ်လမ်းက အဖိုးကြီးတစ်ဦးဖြစ်တဲ့ ဒက်တက်တစ် Toth ရဲ့ ဇနီးသေဆုံးမှုနဲ့စပြီး ဖြစ်လာတယ်။ သူ့ဇနီးသေဆုံးတာဟာ သဘာဝမဟုတ်ပဲ သရဲသုံ့သျှမ်းမှုတစ်ခုလိုပဲ ဖြစ်လာပြီး၊ Toth ကို စိတ်ဒဏ်နဲ့အတူ စုံစမ်းမှုထဲ ပြန်ဝင်ဖို့ ဖြစ်စေတယ်။
+
+နောက်ပိုင်းမှာတော့ သေခြင်းတစ်လျှောက် လှုံ့ဆော်နေတဲ့ ဝံပုလွေ (Werewolf) တစ်ကောင်ပါဝင်နေကြောင်း သက်သေတွေ ထွက်ပေါ်လာပြီး၊ Toth သည် မိမိအတိတ်ဒဏ်ရာကို ဖြေရှင်းရင်း အဲ့ဒီမကောင်းဆိုးဝါးကို တိုက်ဖျက်ဖို့ ကြိုးပမ်းရတယ်။
+
+ဇာတ်လမ်းက ရဲစုံစမ်းမှု၊ သရဲတောင့်တင်းမှုနဲ့ ဝံပုလွေသရဲသစ်ပုံစံတွေ ပေါင်းစပ်ထားတဲ့ အမျိုးအစားဖြစ်ပြီး အနည်းငယ်ဖြစ်စဉ်ဆန်ဆန် အကြမ်းအနာ့အယှက်ရှိတဲ့ သဘာဝအတုအယှက် horror-action ဇာတ်ကားတစ်ကားဖြစ်တယ်။
+
+#Credit",
+    "rate": "3.7",
+    "HD": "https://www.dropbox.com/scl/fi/agrw1b7kqrbsfzbu1uwpy/12-to-Midnight-2024.mp4?rlkey=e1axgzuxn5m81r4ymv16gh1du&st=6mqcdyme&dl=1",
+    "year": "2024",
+    "time": "95 minutes"
+  },
+  {
+    "title": "Average Joe (2024)",
+    "photo1": "https://www.dropbox.com/scl/fi/5iqocytv3gcvzh4gxpppn/MV5BZGU4NzFmZWItMmI2NC00MDNkLTk3OGYtN2IxMDE3MTUwNTM5XkEyXkFqcGc-._V1_-768x1152.jpg?rlkey=dcdlf8v3cphc8q3qao6cv4ebk&st=qi66r713&dl=1",
+    "photo2": "https://www.dropbox.com/scl/fi/e7n360weaggshpjp58uxo/images-8.jpeg?rlkey=1g6p31p6v3pxs7teeumvmzwft&st=bk53h1ri&dl=1",
+    "description": "Average Joe (2024)
+
+ဒီဇာတ်ကားဟာ ဖြစ်ရပ်မှန်အပေါ် အခြေခံပြီး ရိုက်ကူးထားတာ ဖြစ်ပါတယ်။
+ဂျိုးဟာ ငယ်စဥ်က အင်မတန်မှ ပြဿနာရှာတဲ့ ကောင်လေး တစ်ယောက်ပါ။
+ပြဿနာရှာလွန်းအားကြီးလို့ ဂေဟာကို ပို့ရတဲ့ အထိပါပဲ။ သူ့မှာ ငယ်ချစ်ဦး ဒီနိ့စ်ဆိုတာ ရှိပါတယ်။
+ဒီနိ့စ်ကလဲ အိမ်မှာ ပြဿနာလေးတွေနဲ့ နေရတာပါ။ နောက်ပိုင်း ဂျိုးဟာ မရိန်းတပ်ထဲ နှစ်၂၀လောက် ရောက်သွားခဲ့ပါတယ်။
+အချစ်ဟောင်း ဒီနိ့စ်နဲ့ အိမ်ထောင်ကျပြီး ဒီနိ့စ်ကျန်းမာရေးမကောင်းတဲ့ နောက်ပိုင်း မရိန်းတပ်က ထွက်ပြီး အထက်တန်းကျောင်းတစ်ခုမှာ ဘောလုံးနည်းပြ (American Football) ဖြစ်လာခဲ့ပါတယ်။
+ဂျိုးက ဘုရားသခင်ကို ကတိခံထားတာရှိပါတယ်။ အဲဒါကတော့ သူတို့ အိမ်ထောင်ရေးကို ကယ်ဆယ်ပေးမယ်ဆိုရင် ဘုရားအလိုကျ နေပေးမယ် ဆိုတာပါပဲ။
+ကစားပွဲပြီးတိုင်း ကွင်းလယ် ကိုက် ၅၀စည်းမှာ ဆုတောင်းဝတ်ပြုလေ့ရှိတယ့် သူ့ကို ဝေဖန်မှုတွေ ရှိလာပါတယ်။
+ဘာသာရေး သွတ်သွင်းမှုတွေ ရှိတယ်လို့ စွတ်စွဲခံရပြီး အလုပ်ပါ ပြုတ်သွားခဲ့ပါတယ်။
+တစ်သက်လုံး တိုက်ခိုက်လာတဲ့ ဂျိုး တစ်ယောက် တိုက်ခိုက်မှုတွေကို ပြန်လည် ရင်ဆိုင်ဖို့ ဆုံးဖြတ်လိုက်ပါတော့တယ်။
+
+#Credit",
+    "rate": "3.1",
+    "HD": "https://www.dropbox.com/scl/fi/wjwn6bw10xu17iflxt7mc/Average-Joe-2024.mp4?rlkey=3txsa3bsnyuq0weaen529f62p&st=g3hyaihl&dl=1",
+    "year": "2024",
+    "time": "110 minutes"
+  },
+  {
+    "title": "Black Bag (2025)",
+    "photo1": "https://www.dropbox.com/scl/fi/f9qcfuwzdhhotp0twat45/images-9.jpeg?rlkey=gtpfrfep2krm4ig2wxcbov3cr&st=845fs1n9&dl=1",
+    "photo2": "https://www.dropbox.com/scl/fi/iwamw1bhk86zio0fh5s69/maxresdefault-2.jpg?rlkey=6l373d2ndpzklj22q9aa55776&st=0ssv8qq1&dl=1",
+    "description": "Black Bag (2025)
+
+မြန်မာနိုင်ငံမှာ ဘဏ်အကောင့်ဖွင့်ပြီး ငွေတွေဖွက်ထားတဲ့ သစ္စာဖောက် စပိုင်အေးဂျင့်ကို ဖော်ထုတ်ရတဲ့ ရုပ်ရှင်ပါ။စပိုင်ရုပ်ရှင်တွေထဲမှာ အတော်ကောင်းတဲ့ရုပ်ရှင်လို ပြောလိုရပါတယ်။သရုပ်ဆောင်တွေကလည်း X-Men ထဲက မင်းသား Michael Fassbender၊ ကိတ်ဘလန်းချက်၊ ဂျိမ်းစ်ဘွန်မင်းသားကြီး Pierce Brosnan တိုပါထားပါတယ်။ဇာတ်လမ်းအကျဉ်းရုပ်ရှင်နာမည် အိတ်အနက်ဆိုတာ စပိုင်တွေရဲ့ လျှိဝှက်ချက်ကို ရည်စူးတာဖြစ်ပါတယ်။ထောက်လှမ်းရေးအဖွဲတစ်ခုဟာ ရုရှားအစိုးရကို ဖြုတ်ချနိုင်လောက်တဲ့ ကွန်ပြူတာဗိုင်းရပ်စ်တစ်ခုကို တီထွင်ပြီးချိန်မှာ အခိုးခံလိုက်ရပါတယ်။သူတိုအဖွဲထဲမှာ သစ္စာဖောက်ရှိနေတာသိပေမဲ့ ဘယ်သူမှန်း ရှာလိုမရဖြစ်နေပါတယ်။အဲဒီတရားခံကို ရှာဖိုကြိုးစားရင်း စပိုင်တွေ အချင်းချင်း အောက်ဖဲလှန်၊ သစ္စာဖောက်ကြကျတာတွေကို ကြည့်ရင်း နောက်ဆုံးမှာ ဘယ်သူက တရားခံလည်းဆိုတာ သိလာရမဲ့ အမျိုးအစားပါပဲ။ပစ်တာခတ်တာ အသားပေးမဟုတ်ဘဲ စပိုင်တွေ ဉာဏ်ချင်းပြိုင်တဲ့ကားမို ဦးနှောက်သုံးရတာ ကြိုက်တဲ့လူတွေအတွက် ရုပ်ရှင်ကောင်းပဲဖြစ်ပါတယ်။
+
+#credit",
+    "rate": "7.2",
+    "HD": "https://www.dropbox.com/scl/fi/1fkp2kiy52gw2gnb3j3r2/Black-Bag-2025.mkv?rlkey=tmfvutd6g71nroabkxig3lf0a&st=2jvshmxv&dl=1",
+    "year": "2025",
+    "time": "94 minutes"
+  },
+  {
+    "title": "Blitz (2024)",
+    "photo1": "https://www.dropbox.com/scl/fi/bcar8t1zdu7enf54tmbi2/photo.jpeg?rlkey=9ay1t2dvcy84x9f6pmlu2kxdr&st=zy4hsat4&dl=1",
+    "photo2": "https://www.dropbox.com/scl/fi/a5fha6tzjf6201lwdm37m/images-10.jpeg?rlkey=amk21q26zv65qgc72qafl069p&st=5wddats5&dl=1",
+    "description": "Blitz (2024)
+
+ဒီဇာတ်လမ်းလေးကတော့ ဒုတိယကမ္ဘာစစ်အတွင်း ဂျာမနီက ဗြိတိန်ကို ‌ဗုံးတွေကြဲခဲ့ချိန်ကို ဇာတ်အိမ်တည်ထားပါတယ်။
+ရီတာလို့ အမည်ရတဲ့ အမျိုးသမီးဟာ သူ့ရဲ့ အဖေရယ် သားဖြစ်သူ ဂျော့ဂ်ျရယ်နဲ့ ဘဝကို အေးအတူပူအမျှ ဖြတ်သန်းနေသူပေါ့။
+ဒါပေမဲ့ တစ်နေ့တော့ သူတို့နေထိုင်ရာ မြို့လေးဟာ နာဇီတို့ရဲ့ လေကြောင်းကနေ ဗုံးကြဲမဲ့ ပစ်မှတ်တစ်ခုဖြစ်လာခဲ့ပါတယ်။
+ဒါကြောင့်မလို့ သားသမီးရှိတဲ့ မိသားစုတွေဟာ ကလေးတွေ ဘေကင်းဖို့အတွက် ကျေးလက်ဒေသဘက်ကို စစ်ရှောင်ဖို့ ပို့ဆောင်ကြရပါတယ်။
+ဒီထဲမှာ ရီတာရဲ့ သားလေး ဂျော့ဂ်ျလည်း ပါဝင်ပါတယ်။ ဒါပေမဲ့ ဂျော့ဂ်ျဟာ သူ့အမေနဲ့ပဲ နေချင်သူပါ။
+မိခင်နဲ့ ကတောက်ကဆဖြစ်ပြီး ရထားပေါ် ပါသွားတဲ့ ဂျော့ဂ်ျဟာ အမေမှာလိုက်တဲ့ လိမ်လိမ်မာမာနေနော်ဆိုတဲ့ စကားကို နားမထောင်ဘဲ တစ်ကိုယ်တည်း အိမ်ပြန်ဖို့ ကြိုးစားပါတော့တယ်။
+ဒီဇာတ်လမ်းမှာ ရီတာအဖြစ် Ladybird, Little Women စတဲ့ နာမည်ကြီး ရုပ်ရှင်တွေမှာ ပါဝင်တဲ့ မင်းသမီးချော Saoirse Ronan က ပါဝင်ထားပါတယ်။
+
+#Credit",
+    "rate": "6.2",
+    "HD": "https://www.dropbox.com/scl/fi/pzg81ajpf67f56vtrvcxo/Blitz-2024.mp4?rlkey=u2ihzisx5l30cstmeagn3f4tv&st=xu7wcnyx&dl=1",
+    "year": "2024",
+    "time": "120 minutes"
+  },
+  {
+    "title": "Bring Them Down (2024)",
+    "photo1": "https://www.dropbox.com/scl/fi/vr55rts86wpttk7txfp6u/MV5BNWVhMGNlODgtYzAyMS00OGJhLTkyOGItNDY3MjA4NjVjYzMzXkEyXkFqcGc-._V1_.jpg?rlkey=yl5c6t73eq9ncafjgzj5j9y3s&st=25w03271&dl=1",
+    "photo2": "https://www.dropbox.com/scl/fi/d41vmlen5vheraxqknv4d/images-11.jpeg?rlkey=td3yrz9ffjtbxg4kjvw5uzquk&st=ncjvxx5r&dl=1",
+    "description": "Bring Them Down (2024)
+
+Michael က ကျေးလက်ဧရိယာ တစ်ခုမှာ သူ့အဖေ Ray နဲ့အတူ ဝက်သားမွေးမြူရေးလုပ်ပြီး နေတဲ့ လူတစ်ယောက်။ မကြာခင် မိခင်ကို မ အဲ့ဒီ ကားမတော်တဆမှုကြောင့် သေဆုံးပြီး၊ သူ့ချစ်သူ Caroline ကိုလည်း ထိခိုက်စေခဲ့တာရှိတယ်။ Caroline ဟာနောက်ပြီး သူ့အရှေ့နားအိမ်က ဝက်သားမွေးမြူရတဲ့ Gary နဲ့ မဲယုံပြု၍ မိသားစုတစ်ခု ချစ်ခြင်းမေတ္တာလည်းဖြစ်လာတယ်။
+
+တစ်ရက် ဝက်ပင်နှစ်ကောင် မမြင်တော့တဲ့အခါမှ စပြီး သွားရပ်မှားမှုတွေ၊ မယုံကြည်မှုတွေနဲ့ ရင်ဆိုင်ကြရပြီး မူရင်းတင်ဆယ့်ဆယ့်ပစ္စည်းလေးတွေ စတင်ပျက်စီးသွားတယ်။ Michael နဲ့ Jack (Gary ရဲ့ကလေး) တို့အကြား တစ်ခုချင်းဆီကို ကြောင်မှုတွေ၊ ဒါမှမဟုတ် မထင်မှတ်တဲ့ မကောင်းမှုတွေ ပြင်းထန်လာပြီး ကြားကြားထဲမှာ Caroline လည်း တစ်ဖက် ငြင်းပယ်ခံနေရတယ်။ သံယောဇဉ်တွေ တစ်ခုချင်းဆီ နာကျင်မှုတွေနဲ့ ပြည့်စုံလာပြီး အဆုံးမှာတော့ အလွန်အမင်းပြင်းထန်တဲ့ နစ်နာမှုတွေ၊ ချိုးပေါက်မှုတွေနဲ့ ရန်နိုင်စွမ်းမဲ့အခြေအနေတခုအထိ ရောက်ရောက်ရှိရှိ ကြားထဲမှာ တစ်ဖက်လူတစ်ဖက်မေရရာဖို့မဖြစ်ဖြစ်၊ ပြဿနာတွေဖြေရှင်းဖို့ကြိုးပမ်းသော်လည်း အမှန်ကိုရှာဖွေရန် မလွယ်ကူပေ။
+
+#Credit",
+    "rate": "6.4",
+    "HD": "https://www.dropbox.com/scl/fi/lgooh8cm7pluk1uhvaccb/Bring-Them-Down-2024.mp4?rlkey=yu6anc2ly36lu8tfo0fpk5tks&st=sff2odcw&dl=1",
+    "year": "2024",
+    "time": "106 minutes"
+  },
+  {
+    "title": "Get Fast (2024)",
+    "photo1": "https://www.dropbox.com/scl/fi/q6knkpl85y6f3tsdv19so/images-12.jpeg?rlkey=erls38em4yw23s1f5c33bc6jg&st=7cyjoyk0&dl=1",
+    "photo2": "https://www.dropbox.com/scl/fi/t2tufoql5ch67piqpzopq/sddefault.jpg?rlkey=2kr6ocr2f4qv3whny9ajm892q&st=4rtriiwu&dl=1",
+    "description": "Get Fast (2024)
+
+ဇာတ်လမ်းအစမှာတော့ လူနှစ်ယောက်က လူနှစ်ယောက်ဆီကနေ ဓားပြတိုက်ကြရာကနေစပါတယ်။
+ဒီဇာတ်လမ်းထဲက မင်းသားကတော့ သူခိုးပါ။ Vic လို့ခေါ်တဲ့သူ့ရဲ့အဖော် အဘိုးကြီးတစ်ယောက်လည်းပါပါတယ်။
+ဓားပြတိုက်ကြရင်း သူနဲ့သူ့အဖော်တို့က ကွဲပြီး သူကပိုက်ဆံရလိုက်ပေမယ့် အဘိုးကြီးကတော့အဖမ်းခံလိုက်ရပါတယ်။
+တစ်ဖက်မှာလည်း အကျင့်ပျက်ရဲနှစ်ယောက်က ဒီပိုက်ဆံကိုလိုချင်တာကြောင့် နည်းအမျိုးမျိုးနဲ့လိုက်ဖမ်းပါတော့တယ်။
+တခြားတစ်ဖက်မှာလည်း သူတို့ပိုက်ဆံလုလာတဲ့လူနှစ်ယောက်ရဲ့ အလုပ်ရှင် သူဌေးမက သူ့ရဲ့ပိုက်ဆံတွေကိုပြန်လိုချင်နေပါတယ်။
+Vic ကသူ့လက်ထဲမှာအဖမ်းခံထားရတဲ့အပြင် ကံဆိုးချင်တော့ မင်းသားသတ်လိုက်တဲ့သူက သူ့ရဲ့မောင်ဖြစ်သူဖြစ်နေပါတယ်။
+ဒါ့အပြင် သူ့ဆီမှာအလုပ်လုပ်တဲ့ ကောင်းဘွိုင်ကြီးလည်းရှိပါသေးတယ်။
+မင်းသားအနေနဲ့ ထွက်ပြေးနေတုန်း ဘာမဆိုင်ညာမဆိုင်နဲ့ ကောင်လေးတစ်ယောက်ကို ဆွဲထည့်မိသလိုဖြစ်ပြီး ကောင်လေးကိုပါကာကွယ်ရပါတော့တယ်။
+ဆိုတော့ မင်းသားနဲ့ ကောင်လေးကတစ်ဖက်၊ ရဲနှစ်ယောက်က တစ်ဖက်၊ သူဌေးမနဲ့ကောင်းဘွိုင်ကတစ်ဖက်…
+မင်းသားကလည်း Vic ကိုကယ်ချင်တယ်။
+ရဲတွေကလည်း ပိုက်ဆံကိုလိုချင်တယ်။
+သူဌေးမကလည်း လက်စားချေ‌ချင်တယ်။
+ဒီကနေမှ သုံးပွင့်ဆိုင်ဇာတ်လမ်းဘယ်လိုဖြစ်မလဲဆိုတာကိုတော့ ဇာတ်လမ်းလေးထဲမှာပဲဆက်လက်ရှု့စားလိုက်ကြပါဦး။
+ဒီဇာတ်လမ်းက အက်ရှင်အခန်းတွေကြီးပဲ အဆက်မပြတ်ပါတာမလို့ စကားပြောတာတွေပျင်းတယ်၊ ချတာပဲကြည့်ချင်တယ်ဆိုတဲ့သူတွေအတွက်ဇာတ်ကားကောင်း
+လေးတစ်ခုဖြစ်ပါတယ်။
+
+#Credit",
+    "rate": "3.1",
+    "HD": "https://www.dropbox.com/scl/fi/21ievvabnxapedhqerzco/Get-Fast-2024.mp4?rlkey=dyylsy4lt3lz2wh9g50yvr2a3&st=xr2g2duz&dl=1",
+    "year": "2024",
+    "time": "90 minutes"
+  },
+  {
+    "title": "Henry Danger The Movie (2025)",
+    "photo1": "https://www.dropbox.com/scl/fi/6e7ajck8b0h8uhp3papjl/MV5BYWYzZmEyYmMtZGNkYi00NmI4LWE0ZWYtNjUzMDI2MjYzOWUwXkEyXkFqcGc-._V1_.jpg?rlkey=avjou1pcgiid15v3nz2mm3cr8&st=57ag32fr&dl=1",
+    "photo2": "https://www.dropbox.com/scl/fi/zw1not61u28xrdzoadc2x/klgP7ICpXlCMz4px8vi0FqcufFG.jpg?rlkey=yae31ucrkdbnt15t7e5ziqqny&st=816cc9y3&dl=1",
+    "description": "Henry Danger The Movie (2025)
+
+ဒီကားလေးကတော့ ဟိုးငယ်ငယ်က ကြည့်ခဲ့ရတဲ့ Nickelodeon series ကို Movie ပြန်ရိုက်ထားပြီး nickelodeon သရုပ်ဆောင် Jace Norman ပြန်လည်ပါဝင် ထားပါတယ်။မစ်စီမာတင်ဆိုတဲ့ ကစ်ဒိန်းဂျားရဲ့ အကြီးစားပရိတ်သတ်က စကြဝဠာတွေကြား ခုန်ကူးနိုင်တဲ့ စက်တစ်ခုကိုခိုးယူခဲ့ပါတယ်။ပြီးတော့ မစ်စီက ဟန်နရီ့ကို သူ့ကမ္ဘာထဲကနေ ခေါ်ထုတ်လာပြီး သူ့လက်ထောက်အဖြစ်လုပ်ချင်ကြောင်းပြောလာတဲ့အခါ..ဟန်နရီ့ရဲ့တကယ့်ကမ္ဘာကြီးထဲ ပြန်ရောက်သွားဖို့ ကြားမှာဘယ်လို အခက်အခဲတွေ ဘယ်လို ကမ္ဘာတွေကို ကူးရမလဲဆိုတာ စိတ်ကူးယဥ်ဆန်ဆန်ကြည့်ရှုရမှာပဲဖြစ်ပါတယ်။
+
+#Credit",
+    "rate": "4.8",
+    "HD": "https://www.dropbox.com/scl/fi/2wh2338dsjeajb7ms7sgz/Henry-Danger-The-Movie-2025.mkv?rlkey=yxwy26306de1uubljmw88oirm&st=qe9fawx0&dl=1",
+    "year": "2025",
+    "time": "86 minutes"
+  },
+  {
+    "title": "Holland (2025)",
+    "photo1": "https://www.dropbox.com/scl/fi/yw4zhrp2ohvl49xv8f107/MV5BMTJjZmE4Y2UtYzQ5OS00N2Y2LWEzYjEtNzhiMjA3YTlkMjdjXkEyXkFqcGc-._V1_.jpg?rlkey=wpzafhphwn8clr1tf2qeku23m&st=cl2xuu3q&dl=1",
+    "photo2": "https://www.dropbox.com/scl/fi/q836a3ufhkmaot0aenchb/holland01-978x652.jpg?rlkey=1uemyn0j9zld9qtowc04gxpyr&st=aeoj029g&dl=1",
+    "description": "Holland (2025)
+
+မင်းသမီးကြီး Nicole Kidman ရဲ့ thriller/drama ရုပ်ရှင်အမျိုးအစားပဲဖြစ်ပါတယ်။
 ဇာတ်လမ်းအကျဉ်း
-ဘယ်ထောက်လှမ်းရေး အစိုးရအဖွဲမှာမှ စာရင်းမဝင်တဲ့ ပျားမွေးသမားတွေဆိုတဲ့ လျိုဝှက်အဖွဲက ဆရာကြီးတစ်ယောက်က အငြိမ်းစားယူပြီး ပျားတကယ်မွေးစားနေပါတယ်။ သူ့ကို ဂိုထောင်လေးငှားပေးထားပြီး ကျွေးမွေးထားတဲ့ အငြိမ်းစားဆရာမကြီးတစ်ယောက်ရှိပါတယ်။ တစ်နေ့မှာ အွန်လိုင်းလူလိမ်အဖွဲတစ်ဖွဲက ဆရာမကြီးရဲ့တစ်သက်လုံးစုထားတဲ့ငွေတွေရော ပရဟိတရန်ပုံငွေတွေရော သန်းချီပြီး လိမ်လည်သွားပါတော့တယ်။
+နန်စီလို့ခေါ်တဲ့အမျိုးသမီးဟာ ပြီးပြည့်စုံတဲ့ဘဝတစ်ခုကို ပိုင်ဆိုင်ထားတဲ့အမျိုးသမီးတစ်ယောက်အဖြစ် အများကလက်ခံထားကြပါတယ်။
+သူမကိုယ်တိုင်လည်းဒီလိုပဲလက်ခံထားပေမယ့် သူမရဲ့မသိစိတ်ထဲမှာတော့အကြောင်းအရာတစ်ခုခုက သူမကိုအမြဲလိုလိုပဲ မတင်မကျဖြစ်နေစေခဲ့ပါတယ်။
+တစ်ရက်မှာတော့ သူမရဲ့ခင်ပွန်းဟာ သူမ မသိအောင်နောက်ကွယ်မှာခြေရှုပ်နေတယ်လို့ထင်ရစေတဲ့ သက်သေတစ်ခုကိုရှာတွေ့လိုက်ပြီးနောက် ဒါကိုလိုက်လံစုံစမ်းနေရင်းနဲ့ပဲ ဒီအကြောင်းအရာတွေက တကယ်ပဲဖြစ်နေတာလား?
+ဒါမှမဟုတ် သူမရဲ့ထင်ယောင်ထင်မှားစိတ်ကပဲ သူမကိုလှည့်စားနေတာလား အဆုံးသတ်မှာဘာဖြစ်သွားမလဲဆိုတာ ဇာတ်လမ်းလေးထဲမှာခံစားကြည့်ရှုလိုက်ပါဦးနော်။
 
 #Credit",
-"rate": "6.4",
-"videosize": "850 MB",
-"SD": "https://www.mediafire.com/file/h8goupzt3kwtfj4/The.Beekeeper.2024.720p.mp4/file",
-"HD": "https://www.mediafire.com/file/h8goupzt3kwtfj4/The.Beekeeper.2024.720p.mp4/file",
-"year": "2024",
-"time": "105 Min"
+    "rate": "5.0",
+    "HD": "https://www.dropbox.com/scl/fi/b43itsynp6oucbq5s16o1/Holland-2025.mp4?rlkey=agviab045gmirmale0pf4i3gv&st=oo6khidq&dl=1",
+    "year": "2025",
+    "time": "108 minutes"
   },
+  {
+    "title": "Killer Influence (2024)",
+    "photo1": "https://www.dropbox.com/scl/fi/mrokqhls2u2o1xedkmbiw/MV5BOTZmMTA5ZGEtMjc4Yi00MTY2LTg2OGItMDMzNjIwMWI2Y2QwXkEyXkFqcGc-._V1_.jpg?rlkey=auxgxuslpaoulintd7xcdk1pe&st=e3yc28uo&dl=1",
+    "photo2": "https://www.dropbox.com/scl/fi/4nwe938ls84zx3hg5mro7/unnamed-5.jpg?rlkey=bqguiq5qmr4b72ytn50ss5st7&st=ivv2t6ye&dl=1",
+    "description": "Killer Influence (2024)
 
-{
-    "title": "Blowback (2022)",
-"photo1": "https://www.dropbox.com/scl/fi/57unwpklo923rfa0kwjr4/MV5BOGYwYzEzMDItODlhOC00NzA5LWFlNmItOTM4Yzc2OWQ0YzI1XkEyXkFqcGdeQXVyNDA1NDA2NTk-._V1_.jpg?rlkey=cdebweq3zbfi2apiooi7gp4m4&dl=1",
-"photo2": "https://www.dropbox.com/scl/fi/57unwpklo923rfa0kwjr4/MV5BOGYwYzEzMDItODlhOC00NzA5LWFlNmItOTM4Yzc2OWQ0YzI1XkEyXkFqcGdeQXVyNDA1NDA2NTk-._V1_.jpg?rlkey=cdebweq3zbfi2apiooi7gp4m4&dl=1",
-"photo3": "https://www.dropbox.com/scl/fi/jzqycsw6k8dpd22yxmyen/BlowbackPhoto.jpg?rlkey=7941ms3ezkikl56atblw0kq7i&dl=1",
-"photo4": "https://www.dropbox.com/scl/fi/vxytl5sua2z0ml907pq8x/83Vt9Io9xSFKfKDdgxqKZgdqjuZ.jpg?rlkey=f43m3k7ix6v0pbp8mohpon2hh&dl=1",
-"photo5": "https://www.dropbox.com/scl/fi/davbvb8jrp3czf3uknurp/tQE4bq45d67F22uApKgzxzq3Yv8.jpg?rlkey=upcocg4dhmmtzfl5p8wkjxp4a&dl=1",
-    "description": "Blowback (2022)
-
-ဒီတစ်ခါမှာတော့ Blowback ဆိုတဲ့ action ဆန်ဆန် movie လေးကိုတင်ဆက်ပေးမှာပဲဖြစ်ပါတယ်
-
-ဇာတ်လမ်းလေးကတော့
-Nick လို့ ခေါ်တဲ့လူတစ်ယောက်ဟာ သမီးဖြစ်သူရဲ့ ရောဂါကိုကုသပေးဖို့ ငွေလိုအပ်နေတဲ့အတွက်ကြောင့် ရည်းစားဟောင်း
-Veronicaအကူအညီနဲ့ ဘဏ်ဓားပြတိုက်ဖို့ စီစဉ်ခဲ့တယ် ဓားပြတိုက်ဖို့အတွက်Veronicaရဲ့ ရည်းစား
-Jackရဲ့အဖွဲ့နဲ့ အစီအစဉ်ဆွဲရင်း ရဲတွေမရိပ်မိအောင်ပါကြိုးစားကြပါတော့တယ်
-ဒီလိုနဲ့ဓားပြတိုက်တာအဆင်ပြေသွားပြီးတဲ့နောက်မှာ Jackနဲ့သူ့လူတွေက Nickကို သေနတ်နဲ့ပစ်ပြီးတော့ ငွေတွေမသွားခဲ့တယ်
-သစ္စာဖောက်ခံလိုက်ရတဲ့ Nick တစ်ယောက်သူ့ကိုသစ္စာဖောက်သွားတဲ့အဖွဲသားတွေကို ဘယ်လိုလက်စားချေမလဲဆိုတာ..
-သမီးလေးကိုဆေးကုဖို့အတွက် ငွေတွေရောပြန်ယူနိုင်ပါ့မလားဆိုတာ ဆက်လက်ကြည့်ရှုလိုက်ကြပါဦး
+Alex ဆိုသူ influencer တစ်ဦးဟာ နေရာသေးတဲ့ ကျေးလက်အိမ်ငယ်တစ်ခုကို သူမရဲ့မိတ်ဆွေတချို့ကို ဖိတ်ကြားပြီးနေနေတယ်။ တစ်ညမှာ သူမတို့ဟာ ကိုယ်ပိုင် lives stream လုပ်နေစဉ်၊ တစ်ယောက်သူပုန်တစ်ယောက် stalker တစ်ယောက်က အဆက်မပြတ်တိုက်ရိုက်ဝင်ကြည့်ခြင်း၊ ဟန်ချက်မမှန်တဲ့ဖော်ပြမှုများနဲ့ မမျှော်လင့်တဲ့ မိနစ်တွေတစ်စုံတစ်ခုဖြစ်လာပြီး — ဤညသို့မဟုတ် အိပ်မက်ဖြစ်နိုင်ဖို့မထင်သော တစ်ညတစ်လျှောက် စိုးရိမ်ဖွယ် ဖြစ်မှုပေါင်းများစွာတွေနဲ့ ရင်ဆိုင်ကြရမယ့်ညတစ်ည ဖြစ်တယ်။
 
 #Credit",
-"rate": "4.3",
-"videosize": "754.54 MB",
-"SD": "https://www.mediafire.com/file/48n2n3r3hyo6366/Blowback.2022.720p.mp4/file",
-"HD": "https://www.mediafire.com/file/48n2n3r3hyo6366/Blowback.2022.720p.mp4/file",
-"year": "2022",
-"time": "93 Min"
+    "rate": "2.6",
+    "HD": "https://www.dropbox.com/scl/fi/j5fjvwtio2pw75qiie873/Killer-Influence-2024.mp4?rlkey=2gu9ox9smwdu4qxqxd1mmchl0&st=xtwfev6l&dl=1",
+    "year": "2024",
+    "time": "84 minutes"
   },
+  {
+    "title": "Kraven The Hunter (2024)",
+    "photo1": "https://www.dropbox.com/scl/fi/43cn07ls5yhwyaca400gt/MV5BODJmODgzNzEtNjgxYS00OTBjLTg0Y2UtZGFjOGE4YWQzMjZjXkEyXkFqcGc-._V1_.jpg?rlkey=2vq7jxa01f1bjonxhkbo1ayxt&st=0ezclum0&dl=1",
+    "photo2": "https://www.dropbox.com/scl/fi/g0m6nte53huwdhkrplsg5/hq720-1.jpg?rlkey=og9s9sjgmv4id68cjsgm190gq&st=vijmcljg&dl=1",
+    "description": "Kraven the Hunter (2024)
 
-{
-    "title": "The Woman King (2022)",
-"photo1": "https://www.dropbox.com/scl/fi/34kpzztcqm57capjfhr3g/The-Woman-King-8.jpeg?rlkey=xr4nmvjkxq4r6bc3fbnjnntgg&dl=1",
-"photo2": "https://www.dropbox.com/scl/fi/34kpzztcqm57capjfhr3g/The-Woman-King-8.jpeg?rlkey=xr4nmvjkxq4r6bc3fbnjnntgg&dl=1",
-"photo3": "https://www.dropbox.com/scl/fi/83qm8iw1kveso5vo3vi9q/dTQOU5a32K3UPTIXHgipEqN41OM.jpg?rlkey=rls9ek9331qsdd95tihak8hfl&dl=1",
-"photo4": "https://www.dropbox.com/scl/fi/ldyczj10gitlmh0vdx3nq/mSuXg6tn3kqUjBiTlSBcL5XOwen.jpg?rlkey=01fuormmtyiaqn1vly2paq35y&dl=1",
-"photo5": "https://www.dropbox.com/scl/fi/m97sw76sarnkarn0fmj0g/rdDL4y7BxGyXFEDJgAG4lz89bG2.jpg?rlkey=0ozr9wgdhl13f4j9l7f8io455&dl=1",
-    "description":
-"The Woman King ဇာတ်ကားကတော့ IMDB- 6.7 အထိ ရရှိထားတဲ့ကားကောင်းတစ်ကားဖြစ်ပါတယ်
-၁၇ ရာစုနဲ့ ၁၉ရာစုကြား အနောက်အာဖရိကတိုင်းပြည်ဖြစ်တဲ့ ဒါဟိုမီ မှာရှိတဲ့ အစ်ဂိုဂျီ ဆိုတဲ့ မိန်းမစစ်သည်တွေသာပါဝင်တဲ့ တိုက်ခိုက်ရေးအဖွဲအကြောင်းကိုရိုက်ကူးထားတာဖြစ်ပါတယ်
-ကာကွယ်ရေးတပ်ကို လေ့ကျင့်ပေးတဲ့ခေါင်းဆာင် နာနစ်ကာ တစ်ယောက်သူ့တိုင်းပြည်အတွက် လုပ်ဆောင်ပုံတွေ…
-အရင်ခေတ်က အာဖရိကန်တွေကို ဆက်ဆံပုံတွေနဲ့တိုက်ပွဲတွေကို တခြားသော အလှည့်အပြောင်းတွေနဲ့ရိုက်ကူးထားလို လက်လွတ်မခံသင့်တဲ့ကားကောင်းတစ်ကားဖြစ်ပါတယ်",
-"rate": "6.7",
-"videosize": "1.06 GB",
-"SD": "https://www.mediafire.com/file/v6wki8rsb6dwbfw/The.Woman.King.2022.720p.mp4/file",
-"HD": "https://www.mediafire.com/file/v6wki8rsb6dwbfw/The.Woman.King.2022.720p.mp4/file",
-"year": "2022",
-"time": "135 Min"
+ဖခင် ရဲ့ ကြိုးကိုင်မှုတွေကို ခံနေရတဲ့ သားနှစ်ယောက် တိရိစ္ဆာန် အမဲလိုက်ထွက်ရင်း ခြင်္သေ့ နှင့် ကြုံကျိုက်သောအခါ ခြင်္သေ့ အစားခံရတော့မလို ဖြစ်သွားတဲ့ အကြီးကောင် "ဆာဂီ"
+
+သေလုမျောပါးဖြစ်သွားရင် အသက်ဆုံးရှုံးသွားမှ ထူးခြားဆန်းကြယ်သော ဆေးရည်တစ်ခုကြောင့် ပြန်အသက်ရှင်လာ‌ကာ တိရိစ္ဆာန်တွေနဲ့ ဆက်သွယ်လို့ရတဲ့ စွမ်းအားတွေ ပိုင်ဆိုင်သွားကာ ပိုစွမ်းအား ကြီးလာတဲ့ "ဆာဂီ"
+
+ဖခင် ဖြစ်သူရဲ့ လွှမ်းမိုးမှုတွေကို မခံနိုင်တော့ဘဲ ညီလေးဖြစ်သူကို ဖခင် နဲ့ ထားခဲ့ကာ နိုင်ငံရပ်ခြားကို ထွက်ပြေးခဲ့ပြီး မကောင်းမှု ဒုစရိုက်ကျူးလွန်တဲ့ ဝရမ်းပြေးများကို လိုက်လံသတ်ဖြတ်ပါတော့တယ်
+
+"မုဆိုး ခရေဗန်" ဆိုတဲ့နာမည်ကို ဆက်ခံကာ ဒုစရိုက်များဖြေရှင်း ရင်း ဖခင် ကို ပထွေးမုန်း မုန်းနေတဲ့ Rhino တစ်ယောက် ခရေဗန် ကို သတ်ရန် ညီဖြစ်သူ ဒီမစ်ထရစ် ကို ပြန်ပေးဆွဲပြီး ခရေဗန် ကို မျှားခေါ်ရာ မည်သို့ ဇာတ်လမ်းတွေ ဖြစ်လာမည် ဆိုတာကိုတော့ ...
+
+#Credit",
+    "rate": "5.5",
+    "HD": "https://www.dropbox.com/scl/fi/rljhqrkv6ovi6s5d5wtc1/Kraven-The-Hunter-2024-720p-WEB-DL-CM-TSK.mp4?rlkey=3shjj2il3qsbxsx8e30sa5vz1&st=h0ayxeg6&dl=1",
+    "year": "2024",
+    "time": "127 minutes"
   },
+  {
+    "title": "Love Hurts (2025)",
+    "photo1": "https://www.dropbox.com/scl/fi/8uk9hn04cbehhggwhrrno/Love_Hurts_New_Theatrical_Release_Poster.jpg?rlkey=80u8hpq08jiacdthqicqo6hor&st=m6ywb9o3&dl=1",
+    "photo2": "https://www.dropbox.com/scl/fi/oxpi176lkc0kxhwicq1jc/Screenshot-2025-02-07-at-7.57.08-pm.png?rlkey=82qlzg3nq1xkpyv8oaqve9vek&st=e9iposwd&dl=1",
+    "description": "Love Hurts (2025)
 
-{
-    "title": "Reality (2023)",
-"photo1": "https://www.dropbox.com/scl/fi/xhsmkm8lsvurts66lotmo/reality-2023.jpeg?rlkey=6zcr5d29yqlxs78u7hidbijpq&dl=1",
-"photo2": "https://www.dropbox.com/scl/fi/xhsmkm8lsvurts66lotmo/reality-2023.jpeg?rlkey=6zcr5d29yqlxs78u7hidbijpq&dl=1",
-"photo3": "https://www.dropbox.com/scl/fi/pxafknu34ruz7i0jbo4lf/AbwDHo3f1qOIfcPqRiGwf4YP8eV.jpg?rlkey=egptkomrdksgs7wncijyawob1&dl=1",
-"photo4": "https://www.dropbox.com/scl/fi/u343t9y0yfldyw5jj9vid/g4iPYVhPyKytmOioxGg73Tg70dx.jpg?rlkey=rki849tzaqpj2xz4kzam5wfo3&dl=1",
-"photo5": "https://www.dropbox.com/scl/fi/bf7rj3impnepn7wznz60m/fxn0Gp95G4EJzlWosRfJFGFIHwQ.jpg?rlkey=vzd6t96ja2dez2mqdpwf0ex2t&dl=1",
-    "description": "
-Reality (2023)
+ဗက်လင်တိုင်းဒေးပြီးသွားပေမယ့် ဗယ်လင်တိုင်းဒေးကို အခြေပြုပြီး ရိုက်ကူးထားတဲ့ IMDb rating 5.4/10 ရရှိထားတဲ့ Love Hurts ဆိုတဲ့ Action Comedy ဇာတ်ကားလေးတစ်ကားနဲ့ မိတ်ဆက်ပေးချင်ပါတယ်။
 
-On June 3, 2017, 25-year-old Reality Winner returns from running errands to find two FBI agents at her home in Augusta, Georgia. An Air Force veteran and yoga instructor, Winner spends the next two hours being questioned about her work as an intelligence contractor — specifically, whether she leaked a classified document about Russian interference in the 2016 U.S. elections.",
-"rate": "6.7",
-"videosize": "633.5 MB",
-"SD": "https://www.mediafire.com/file/pyi71cqnbyfrzlt/Reality.720p.mp4/file",
-"HD": "https://www.mediafire.com/file/pyi71cqnbyfrzlt/Reality.720p.mp4/file",
-"year": "2023",
-"time": "83 Min"
+ဇာတ်လမ်းအကျဉ်းလေးကတော့ အိမ်ခြံမြေအကျိုးဆောင်တစ်ဦးဖြစ်တဲ့ မာဗင်ဂေဘယ်က အလုပ်ကို အရမ်းချစ်မြတ်နိုးပြီး ကြိုးစားလွန်းတဲ့သူတစ်ဦးပါ။ ဒါပေမယ့် သူဟာ လက်ရှိပုံစံနဲ့ မထင်ရလောက်အောင် အတိတ်မှာ လူသတ်သမားတစ်ဦးဖြစ်ခဲ့ပါတယ်။
+
+အစ်ကိုဖြစ်သူရဲ့ဂိုဏ်းမှာ ဝါသနာမပါတဲ့ သတ်ဖြတ်မှုတွေကို မလုပ်ချင်တာကြောင့် ကိုယ်ပိုင်ဘဝတစ်ခုကို ဖန်တီးနေရာကနေ အတိတ်က ချစ်ရသူ ရိုစ့်နဲ့ ပြန်ဆုံတွေ့ပြီးတဲ့အခါမှာတော့ သူ့ရဲ့အတိတ်ဘဝကို ရင်ဆိုင်ဖို့ အကြောင်းတွေဖြစ်လာပါတယ်။ နောက်ဆုံးမှာ သူ့ရဲ့ရွေးချယ်မှုက သူ့ရဲ့ မူလပုံစံပဲလား ဒါမှမဟုတ် သူဖန်တီးထားတဲ့ ဘဝအသစ်ကိုပဲလားဆိုတာ ဒီဇာတ်ကားလေးထဲမှာ ကြည့်ရှုရမှာပဲဖြစ်ပါတယ်။
+
+အက်ရှင်ခန်းတွေလည်း ပါဝင်လို့ အက်ရှင်ကားကြိုက်တဲ့ပရိတ်သတ်တွေအနေနဲ့လည်း အကြိုက်တွေ့မယ့် ဇာတ်ကားလေးတစ်ကားပဲဖြစ်ပါတယ်။
+
+#Credit",
+    "rate": "5.4",
+    "HD": "https://www.dropbox.com/scl/fi/nqvdpud7fz1zzycd4iugd/Love-Hurts-2025.mp4?rlkey=1t16qmfpkx1o489fh434f549t&st=2t23mnnm&dl=1",
+    "year": "2025",
+    "time": "83 minutes"
   },
+  {
+    "title": "Reality Bites: A Hannah Swensen Mystery (2025)",
+    "photo1": "https://www.dropbox.com/scl/fi/q0yl11mvxkjimbc03scu1/MV5BOGM5ZTVmZDctZDM3My00MmJmLWIxNWMtNDM5YTQ1ZDdhOTY5XkEyXkFqcGc-._V1_FMjpg_UX1000_.jpg?rlkey=qerlrlby2tgjbquj3x60xmr24&st=6148lf7i&dl=1",
+    "photo2": "https://www.dropbox.com/scl/fi/3svwi7cairwv25k5obziq/d4adf23ea254775624c4f7c25601e0f925fa819078cbdad74248da00d7b31268.jpg?rlkey=tjdn42oocvcwdgc036x35z6q7&st=4k3zjdm7&dl=1",
+    "description": "Reality Bites: A Hannah Swensen Mystery (2025)
 
-{
-    "title": "Blue Beetle (2023)",
-"photo1": "https://www.dropbox.com/scl/fi/jtoratrp4uzzx8uo85m0d/MV5BMmY1ODUzZGItNDllOS00MDBhLTg4NmUtYjU4YjUxMGNlYmMwXkEyXkFqcGdeQXVyODE5NzE3OTE-._V1_FMjpg_UX1000_.jpg?rlkey=1b87sw3ahvadpfoqp5k0mpocl&dl=1",
-"photo2": "https://www.dropbox.com/scl/fi/jtoratrp4uzzx8uo85m0d/MV5BMmY1ODUzZGItNDllOS00MDBhLTg4NmUtYjU4YjUxMGNlYmMwXkEyXkFqcGdeQXVyODE5NzE3OTE-._V1_FMjpg_UX1000_.jpg?rlkey=1b87sw3ahvadpfoqp5k0mpocl&dl=1",
-"photo3": "https://www.dropbox.com/scl/fi/mja3q5a2c0mvmrsa6ecdh/uRk2gZilBhcIMF4Ki8lELmPZspi.jpg?rlkey=j4tkm017nt02udtfnc13t2vjc&dl=1",
-"photo4": "https://www.dropbox.com/scl/fi/ae6uk6rdqp5e7t47ib2z0/gSba8P2SmfBIVtbjQa2TxREna0X.jpg?rlkey=ukjunr9mpfjytto2awiq0bg3k&dl=1",
-"photo5": "https://www.dropbox.com/scl/fi/kgyj894ecnzxwfssi970f/H6j5smdpRqP9a8UnhWp6zfl0SC.jpg?rlkey=rargas5d9umr0ksrv6xdbat6j&dl=1",
-    "description": "
-Blue Beetle (2023)
+ဒီဇာတ်ကားကတော့ Reality Bites Franchise ကြီးရဲ့ ၂၀၂၅ ခုနှစ်မှာ အသစ်ထွက်ရှိထားတဲ့ Crime, Mystery ဇာတ်ကားတစ်ကားပဲဖြစ်ပါတယ်။
+ထူးခြားတာတစ်ခုကတော့ ဒီဇာတ်ကားထဲမှာ ဇာတ်ညွှန်းဆရာမဖြစ်တဲ့ Alison Sweeney ကိုယ်တိုင် ဇာတ်ဆောင်မင်းသမီးအနေနဲ့ ပါဝင်သရုပ်ဆောင်ထားတာဖြစ်ပါတယ်။
+Spin-off တစ်ခုပြီးတစ်ခု စာရေးဆရာတွေပြောင်းပြောင်းသွားကြပေမယ့် အခုဒီတစ်ခေါက်ထွက်ထားတဲ့ဇာတ်ကားကတော့ ဖေဖော်ဝါရီလကမှ premiere ထားတာဖြစ်ပေမယ့် IMDB မှာ rating 6.5 အထိရရှိထားပြီဖြစ်ပါတယ်။
+ဇာတ်လမ်းအကျဉ်း
+ဟန်နာစဝင်ဆန်လို့ခေါ်တဲ့ သက်လတ်ပိုင်းအမျိုးသမီးတစ်ယောက်ဟာ လိတ်ခ်အီဒန်လို့ခေါ်တဲ့မြို့လေးတစ်မြို့မှာ မုန့်ဖုတ်ဆိုင်တစ်ခုဖွင့်ထားတာပါ။
+သူဟာ ငယ်ငယ်ကတည်းက ဟင်းချက်အစီအစဉ်တစ်ခုကိုတွေ့ပြီးတဲ့နောက် မုန့်လုပ်ဝါသနာအရမ်းပါသွားပြီး အဲဒါနဲ့ပဲ အသက်မွေးဝမ်းကြောင်းပြုရတဲ့အထိကို မုန့်ဖုတ်ရတာကိုစွဲလန်းသွားတာပါ။
+တစ်နေ့မှာတော့ သူ့ရဲ့မုန့်ဖုတ်ဆိုင်ကို တီဗီရှိုးအစီအစဉ်တစ်ခုကနေ ရိုက်ကူးရေးနေရာလိုလို့ဆိုပြီး အသည်းအသန်တောင်းဆိုလာခဲ့ပါတယ်။
+မထင်မှတ်ထားစရာပဲ အဲဒီအစီအစဉ်က ဟန်နာငယ်ငယ်တုန်းက အမြဲကြည့်ပြီးအားကျခဲ့ရတဲ့ ကွန်နီမက်ခ်ကိုယ်တိုင်ရဲ့ ရှိုးပဲဖြစ်နေပါတယ်။
+သူ့ရဲ့ idol နဲ့ တွေ့ချင်တာကတစ်ကြောင်း idol ရဲ့ မုန့်လုပ်ပုံတွေကို ကိုယ်တိုင်မြင်ချင်နေတာကတစ်ကြောင်းနဲ့ ဟန်နာ့မှာ ရင်တလှုပ်လှုပ်စောင့်စားနေခဲ့တာပါ။
+စိတ်မကောင်းစွာနဲ့ ဟန်နာ့မုန့်ဖုတ်ဆိုင်မှာ ပထမရက်အတွက်ရိုက်ကူးရေးလုပ်ပြီး ဒုတိယနေ့မရောက်ခင်မှာပဲ မနက်အစောကြီး ဟန်နာတစ်ယောက်ဆိုင်သွားဖွင့်ပေးဖို့သွားတဲ့အချိန်မှာ ရိုက်ကူးရေးရဲ့ ပရိုဂျူဆာက အစအဆုံးမရှိသေနေတာကိုတွေ့ရပါတယ်။
+ဒီလိုနဲ့ ဟန်နာတစ်ယောက် ဘယ်လောက်ထိထိန့်လန့်သွားလဲ တကယ့်နောက်ကွယ်က အဖြစ်မှန်ကကော ဘယ်လိုဖြစ်မလဲဆိုတာကို ဒီဇာတ်ကားထဲမှာ cozy ဖြစ်ဖြစ် စောင့်ကြည့်ရမှာပဲဖြစ်ပါတယ်။
 
-ဒီကားလေးထဲမှာတော့ DC ရဲ့စူပါဟီးရိုးကာရိုက်တာတွေထဲကတစ်ယောက်ဖြစ်တဲ့ Blue Beetle ဟိုင်မီရေးရက်စ်ရဲ့
-ဇာတ်လမ်းကို ကြည့်ရှုကြရမှာပါဟိုင်မီရေးရက်စ်ဟာဆိုရင် အကြွေးတွေနဲ့ရုန်းကန်နေရတဲ့ လုံးဝကို သမရိုးကျဆန်တဲ့မိသားစုလေးက
-ကောင်လေးတစ်ယောက်ဖြစ်ပါတယ် ဟိုင်မီတစ်ယောက်သူ့မိသားစုဝန်ကိုလျှော့နိုင်ဖို့အတွက်အလုပ်ရှာရင်း
-ကော့စက်မှုလုပ်ငန်းရဲ့စီမံသူ ဗစ်တိုးရီးယားရဲ့စံအိမ်ကြီးမှာအလုပ်ရသွားခဲ့ပါတယ် ဒါပေမယ့်လည်းသိပ်မကြာပါဘူး
-ဗစ်တိုးရီးယားနဲ့ သူ့တူမဂျနီဖာတို့ အချင်းများမှုမှာဝင်ပြီးရှုပ်မိတာကြောင့် အလုပ်ပြုတ်သွားခဲ့ပါတယ် အဲဒီမှာဂျနီဖာက
-သူ့ကြောင့်အလုပ်ပြုတ်သွားတဲ့ဟိုင်မီ့ကိုအလုပ်ပြန်ပေးဖို့အတွက် နောက်ရက်ကုမ္ပဏီကိုခေါ်ခဲ့ပါတယ်
-အလုပ်အရေးပေါ်လိုအပ်နေတဲ့ဟိုင်မီကလည်း နှစ်ခါမစဉ်းစားဘဲ ကော့လုပ်ငန်းစုကိုရောက်သွားခဲ့ပေမယ့် ဂျနီဖာနဲ့တွေ့တဲ့အချိန်
-သူထင်ထားတဲ့အလုပ်မရခဲ့တဲ့ ထူးဆန်းတဲ့စက်ပစ္စည်းတစ်ခုကိုသာ စောင့်ရှောက်ပေးဖို့ အလျင်စလိုထည့်ပေးလိုက်ပါတယ်
-ဒါပေမယ့် အဲဒီစက်ပစ္စည်းဟာ ရုတ်တရက် ဟိုင်မီ့ကိုရွေးချယ်လိုက်ပြီးတဲ့နောက် ဟိုင်မီ့ရဲ့ဦးနှောက်နဲ့ပါ တစ်သားတည်း
-ချိတ်ဆက်လိုက်တဲ့အချိန်မှာတော့ ဟိုင်မီတစ်ယောက် ထူးခြားတဲ့စွမ်းအားတွေကိုရရှိပြီး Blue Beetle ဆိုပြီးဖြစ်လာပါတော့တယ်ဟိုင်မီတစ်ယောက် Blue Beetle စူပါဟီးရိုးအနေနဲ့ ဘယ်လိုစိန်ခေါ်မှုတွေကြုံရမလဲ၊ စွမ်းအားတွေကို ဘယ်လို
-အသုံးချသွားမလဲဆိုတာကို စိတ်ဝင်စားဖွယ်ကြည့်ရှုရမယ့် ဇာတ်ကားကောင်းလေးဖြစ်ပါတယ်
-
-#credit",
-"rate": "6.1",
-"videosize": "1.01 GB",
-"SD": "https://www.mediafire.com/file/cmtqv9z46t3icd9/Blue.Beetle.2023.720p.mp4/file",
-"HD": "https://www.mediafire.com/file/cmtqv9z46t3icd9/Blue.Beetle.2023.720p.mp4/file",
-"year": "2023",
-"time": "128 Min"
+#Credit",
+    "rate": "6.5",
+    "HD": "https://www.dropbox.com/scl/fi/ob9pen1l8x4wt6y16zy54/Reality-Bites-A-Hannah-Swensen-Mystery-2025.mp4?rlkey=rjf5ojywwhcd2xnprvq8m0r9o&st=yxnesqyp&dl=1",
+    "year": "2025",
+    "time": "90 minutes"
   },
+  {
+    "title": "Riff Raff (2024)",
+    "photo1": "https://www.dropbox.com/scl/fi/cbnf3798va4b8oz8zl76z/MV5BN2FiYzNhNTItN2M4Mi00MDRjLTk2NTMtYmQxODk4ZTMzN2E5XkEyXkFqcGc-._V1_SL1024_.jpg?rlkey=3aolv033jf9c2j5di098o9ozz&st=yn9nqlpk&dl=1",
+    "photo2": "https://www.dropbox.com/scl/fi/adr3qwfpt1zo97zdutxc6/hq720-2.jpg?rlkey=expkocrfb0lyshpolsrrc1omb&st=61ytr95x&dl=1",
+    "description": "Riff Raff (2024)
 
-{
-    "title": "Retribution (2023) my",
-"photo1": "https://www.dropbox.com/scl/fi/b4wbqign3xacz41dazy7l/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg?rlkey=swo6zoz3wpght7f7uuiuzkgzq&dl=1",
-"photo2": "https://www.dropbox.com/scl/fi/b4wbqign3xacz41dazy7l/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg?rlkey=swo6zoz3wpght7f7uuiuzkgzq&dl=1",
-"photo3": "https://www.dropbox.com/scl/fi/fv6pnjv8qz1a78j0l9gp5/qVzLQUs4tVuh4mz0KcFL5ufwqRZ.jpg?rlkey=ktx4y0gvegrj5854o4nz012rw&dl=1",
-"photo4": "https://www.dropbox.com/scl/fi/tcqowjvmnw4o3rrmuysmn/rqO1wOmgIxUnK0tkfWPpDD47RsD.jpg?rlkey=1dr3p2a7kr1osl7qddpb7lucq&dl=1",
-"photo5": "https://www.dropbox.com/scl/fi/i6k361fuiyrh0uvdphsvw/tUlUdP04nDWsy372myIHuA2qdNv.jpg?rlkey=b9ahqahmrebk1ob4emglux6gu&dl=1",
-    "description": "
-Retribution (2023)
+တကယ့်ဒိတ်ဒိတ်ကြဲ နာမည်ကြီးသရုပ်ဆောင်ကြီးတွေပဲ
+ပါဝင်သရုပ်ဆောင်ထားတဲ့ မိသားစုဟာသဇာတ်ကား
+ကောင်းလေးတစ်ကားကို ထပ်မံတင်ဆက်ပေးလိုက်ပါတယ်။
+မိသားစုဟာသကားဆိုလို့ နူးနူးညံ့ညံ့တော့မထင်လိုက်ပါနဲ့။
+မိသားစုတွေကြားထဲကအချစ်အကြောင်းကို ကြမ်းကြမ်း
+တမ်းတမ်း အပစ်အခတ်တွေနဲ့ပုံဖော်ထားတာဖြစ်ပြီး
+ဇာတ်လမ်းကကောင်းလွန်းလို့ တစ်ကားလုံးမပျင်းရဘဲ
+ပရိသတ်ကိုစီးမျောခေါ်ဆောင်သွားမှာဖြစ်ပါတယ်။
+ဇာတ်ကားနာမည်ကတော့ Riff Raff ဖြစ်ပြီး လက်ရှိ
+IMDb Rating 6.0 အထိရရှိထားပါတယ်။
+သရုပ်ဆောင်တွေကလည်း လူငယ်ဘ၀မှာတင်မကဘဲ
+အခုအသက်ကြီးတဲ့အထိ ကြမ်းနေဆဲဖြစ်တဲ့ အက်ရှင်
+လူကြမ်းမင်းသားကြီး Ed Harris တို့ American Pie
+Series မှာနာမည်ကြီးခဲ့တဲ့ Jennifer Coolidge တို့ နာမည်ကြီး
+ကလေးဟာသသရုပ်ဆောင် Miles J. Harvey တို့အပြင်
+တခြားသော နာမည်ကြီးတွေများစွာပါဝင်ထားတဲ့အတွက်
+တစ်ခါလောက်တော့ မကြည့်မဖြစ်ကြည့်သင့်တဲ့ ဇာတ်ကား
+တစ်ကားလို့ပြောလို့ရပါတယ်။
+ဇာတ်လမ်းက မိသားစုအကြောင်းဖြစ်တဲ့အတွက် ဒီဇာတ်ကားရဲ့
+အဓိကမိသားစုအကြောင်းစပြောရမှာပါပဲ။
+ဒီဂျေဆိုတဲ့ကောင်လေးက သူ့အမေဆန်ဒီနဲ့အတူတူ သူ့ပထွေး
+ဆိုပေမဲ့ အဖေအရင်းလိုချစ်ရပြီး အဖေလို့ပဲခေါ်တဲ့ဗင်းဆင့်တို့နဲ့
+အတူတူ ပျော်ရွှင်တဲ့မိသားစုလေးကိုထူထောင်ပြီးနေထိုင်
+ကြပါတယ်။အခုလည်း နှစ်သစ်ကူးနေ့မှာအပန်းဖြေဖို့အတွက်
+ကျေးလက်က သူတို့ရဲ့အပန်းဖြေအိမ်မှာသွားရောက်နေထိုင်
+နေကြပါတော့တယ်။ဒါပေမယ့် အဲ့ဒီညမှာပဲ သူတို့ဆီကို မထင်မှတ်
+ထားတဲ့ ဧည့်သည်တွေရောက်ချလာပါတော့တယ်။
+အဲ့ဒီဧည့်သည်တွေကဘယ်သူတွေလဲဆိုရင်တော့ ဗင်းဆင့်ရဲ့
+သားအရင်း ရော့ကို သူ့ကောင်မလေးနဲ့ သူ့အရင်မိန်းမ ရုသ်တို့ပဲ
+ဖြစ်ပါတယ်။ရောက်လာတဲ့ပုံစံကတော့ ရေးကြီးသုတ်ပျာဖြစ်နေပြီး
+ဘာအကြောင်းအရင်းကြောင့်လဲဆိုတာလည်း သေချာမသိရ
+သေးပါဘူး။ဒါပေမယ့် အဖေဖြစ်တဲ့ဗင်းဆင့်ကတော့ သူ့သား
+တစ်ကောင် ပြဿနာရှာလာပြီမှန်း တန်းသိလိုက်ပါတော့တယ်။
+ဒီလိုနဲ့ဒီအိမ်မှာ မိသားစု ၂ ခုအတူပေါင်းနေခဲ့ရပြီး ရော့ကိုသယ်
+လာတဲ့ပြဿနာတွေက ဒီအိမ်အထိလိုက်လာမလား……
+အဲ့ဒီပြဿနာကရော ဘာဖြစ်မလဲ…..
+မိသားစုတစ်ခုအနေနဲ့ရော အဲ့ဒီပြဿနာကို သူတို့တွေအတူတူ
+ဘယ်လိုရင်ဆိုင်ကြမလဲဆိုတာတွေကိုပါ စိတ်ဝင်စားစရာကောင်းစွာ
+ရှုစားရမဲ့ဇာတ်ကားကောင်းလေးတစ်ကားပဲဖြစ်ပါတယ်။
 
-မင်းသားကြီး လီယံနီဆန် စီးတဲ့ကားထိုင်ခုံအောက်ကို ဗုံးထောင်ရဲတဲ့ကောင် ပေါ်လာပါပြီ။ ဗုံးကတော့ ဖင်ကြွလိုက်ရင် ကွဲမယ့်ဗုံးပါ။ ကားထဲမှာ သူ့သားနဲ့ သမီးလည်း ပါနေပြီး ဖုန်းတစ်လုံးကနေ လူဆိုးခိုင်းတာမှန်သမျှ ဖင်မကြွဘဲ လိုက်လုပ်ရပါတော့တယ်။ ဒီတစ်ခါတော့ ဘတ်မန်းရဲ့ဆရာလည်းမဟုတ်၊ အိုဘီဝမ်ရဲ့ ဆရာလည်းမဟုတ်တာမို့ ဗုံးကိုဖြုတ်မရဘဲ တစ်မြို့လုံး ပတ် ပြဿနာရှာရပါတော့တယ်။ ဇာတ်လမ်းက ကောင်းပါတယ်။ ကောင်းဆို 2015 တုန်းကထွက်ခဲ့တဲ့ နာမည်ကြီးစပိန်ကားကို သုံးကြိမ်မြောက် ပြန်ရိုက်တာပါ။ ရှေ့မှာလည်း ဂျာမနီက Don’t Get Out (2018), ကိုရီးယားက Hard Hit (2021) ဆိုပြီး ရိုက်ထားပါသေးတယ်။ အရင်ကားတွေ ကြည့်ဖူးဖူး မကြည့်ဖူးဖူး ဒီမင်းသားကြီးနဲ့ ဘယ်လိုကြမ်းမလဲ ကြည့်ကြည့်လိုက်ကြပါဦး။
-
-#credit",
-"rate": "5.3",
-"videosize": "736.5 MB",
-"SD": "https://www.mediafire.com/file/mw6ein64cj3e8e9/Retribution.2023.720p.mp4/file",
-"HD": "https://www.mediafire.com/file/mw6ein64cj3e8e9/Retribution.2023.720p.mp4/file",
-"year": "2023",
-"time": "91 Min"
+#Credit",
+    "rate": "5.9",
+    "HD": "https://www.dropbox.com/scl/fi/nyrh3x7eujxcqk6o43lbr/Riff-Raff-2024.mkv?rlkey=8xn4k3yfdmvuv5q411h5llj7o&st=v3avn2xd&dl=1",
+    "year": "2024",
+    "time": "103 minutes"
   },
+  {
+    "title": "Sugar Mama (2025)",
+    "photo1": "https://www.dropbox.com/scl/fi/a27gzht201mdq1v5782tp/8LSdymxp7As658u6H86ISXwDvx1.jpg?rlkey=nzsoi4zztgtouacvkdsaxqf01&st=0rt5wmev&dl=1",
+    "photo2": "https://www.dropbox.com/scl/fi/36jiu545bvm0tro711mws/Sugar-Mama-banner.jpg?rlkey=0cul3fuig8bn7az1riw8b4i78&st=qkpuiw8f&dl=1",
+    "description": "Sugar Mama (2025)
 
-{
-    "title": "Jurassic World Dominion (2022)",
-"photo1": "https://www.dropbox.com/scl/fi/89q2a24sialrlg3bqt1oq/MV5BOTBjMjA4NmYtN2RjMi00YWZlLTliYTktOTIwMmNkYjYxYmE1XkEyXkFqcGdeQXVyODE5NzE3OTE-._V1_.jpg?rlkey=euk8gkuq1qug1qkb3rmd4i1uu&dl=1",
-"photo2": "https://www.dropbox.com/scl/fi/89q2a24sialrlg3bqt1oq/MV5BOTBjMjA4NmYtN2RjMi00YWZlLTliYTktOTIwMmNkYjYxYmE1XkEyXkFqcGdeQXVyODE5NzE3OTE-._V1_.jpg?rlkey=euk8gkuq1qug1qkb3rmd4i1uu&dl=1",
-"photo3": "https://www.dropbox.com/scl/fi/jxwabhabjaga6uzwn8utp/QOMBHUrMCTw6nugUsGQdLKYxr8.jpg?rlkey=vohlij6ttxet258zzuuhgw2q5&dl=1",
-"photo4": "https://www.dropbox.com/scl/fi/j6tey84zpm4uabkliil8o/enG5gHz8B90cXBI7AujeARgTUAc.jpg?rlkey=tfy5kiumtbz0qg3n79mlcchc6&dl=1",
-"photo5": "https://www.dropbox.com/scl/fi/s8t8iq7jkx6joh7hvzjxl/c7J5LkhbSNz3rVlIa72uw9uwlKF.jpg?rlkey=lj4fcaqwnj82gcaxkk98tp1dc&dl=1",
-    "description": "
-Jurassic World Dominion (2022)
+Sugar mama ကတော့ငွေလိုနေတဲ့ ရည်မှန်းချက်ကြီးကြီး တက္ကသိုလ်ကျောင်းသားကောင်လေးတစ်ယောက်ဟာ အောင်မြင်ကျော်ကြားတဲ့စီးပွါးရေးလုပ်ငန်းရှင်အမျိုးသမီးကြီးတစ်ယောက်နဲ့တွေ့ဆုံပြီးနောက် သူ့ဘဝကြီးဘယ်လိုအပြောင်းအလဲတွေနဲ့ကြုံတွေ့လိုက်ရလဲဆိုတာကို ထိတ်လန့်အံ့ဩစရာကောင်းအောင်ဖန်တီးရိုက်ကူးထားတဲ့ ဇာတ်ကားလေးတစ်ကားဖြစ်ပါတယ်
+ပေါ့ပေါ့ပါးပါးအနှောင်အဖွဲ့ကင်းတဲ့ဆက်ဆံရေးတစ်ခုကနေနားမလည်နိုင်တဲ့လုပ်ရက်တွေပြုမှုခံလာရတဲ့အနေအထားတစ်ခုကိုတစ်စစမြင်လာရတဲ့အခါမှာ ငွေမျက်နှာတစ်ခုကိုပဲကြည့်ပြီးဘာဖြစ်ဖြစ်ရှေ့ဆက်တိုးမလား ရပ်တန့်လို့ရနိုင်မလားဆိုတာကိုဇာတ်လမ်းလေးထဲမှာဆက်ပြီးကြည့်ရှုခံစားကြည့်ကြပါဦး
 
-2022မှာထွက်ရှိလာတဲ့Jurassic World ဖြစ်ပါတယ်ခင်ဗျာ။ မင်းသားChris Prattကဘဲ ဆက်လက်သရုပ်ဆောင်ထားတုန်းဖြစ်ပါတယ်ခင်ဗျာ။
-ရှေ့တစ်ကားပြီးတဲ့နောက် ၄နှစ်အကြာကို အခြေခံပြီးရိုက်ကူးထားတာဖြစ်ပါတယ်။ ဒိုင်နိုဆောတွေက လူသားတွေနဲ့အတူ ကမ္ဘာပေါ်ကို ရောက်ရှိလာပြီးဖြစ်ပါတယ်။
-ဒီတစ်ခါဇာတ်ကားမှာတော့ တိုက်ခိုက်ရမှာက ဒိုင်နိုဆောတွေတင်မဟုတ်ဘဲ အကောင်အသစ်တွေပေါ်ပေါက်လာပြီဖြစ်ပါတယ်။
-အဲ့ဒီအကောင်တွေကို ဘယ်သူဖန်တီးထားတာလဲဆိုတာကို လိုက်လံရှာဖွေ စုံစမ်းကြတော့မှာဘဲဖြစ်ပါတယ်ခင်ဗျာ။
-အားလုံးလဲစောင့်မျှော်နေကြတဲ့ဇာတ်ကားဆိုတော့ ကြည့်ရှု့အားပေးကြပါအုံးခင်ဗျာ။
-
-#credit",
-"rate": "5.8",
-"videosize": "1.16 GB",
-"SD": "https://www.mediafire.com/file/6xt0xp3z6c21v5a/Jurassic.World.Dominion.2022.720p.mp4/file",
-"HD": "https://www.mediafire.com/file/6xt0xp3z6c21v5a/Jurassic.World.Dominion.2022.720p.mp4/file",
-"year": "2022",
-"time": "147 Min"
+#Credit",
+    "rate": "5.2",
+    "HD": "https://www.dropbox.com/scl/fi/jx9w1vkww41pvnupaaq20/Sugar-Mama-2025.mp4?rlkey=77nacwn6yy2au587vl1ys1zf3&st=qqgmg8jx&dl=1",
+    "year": "2025",
+    "time": "93 minutes"
   },
+  {
+    "title": "The Last Supper (2025)",
+    "photo1": "https://www.dropbox.com/scl/fi/dt6vh7d82ii3nq3995uoz/TheLastSupper-Poster-1-731x1024.png?rlkey=h9sx6i4jmpq8m4icfa2pw905y&st=ywc46ldq&dl=1",
+    "photo2": "https://www.dropbox.com/scl/fi/2hg0nwasvszcvmryld3tb/HO00003666.jpeg?rlkey=w088cd7gbfdih1ddhxs72rhox&st=t2m5ztf6&dl=1",
+    "description": "The Last Supper (2025)
 
-{
-    "title": "Plane (2023)",
-"photo1": "https://www.dropbox.com/scl/fi/yjacw6ai43ureskctcrio/MV5BZDc4MzVkNzYtZTRiZC00ODYwLWJjZmMtMDIyNjQ1M2M1OGM2XkEyXkFqcGdeQXVyMDA4NzMyOA-._V1_.jpg?rlkey=l65f41g3jre9g5z5j8ev1403i&dl=1",
-"photo2": "https://www.dropbox.com/scl/fi/yjacw6ai43ureskctcrio/MV5BZDc4MzVkNzYtZTRiZC00ODYwLWJjZmMtMDIyNjQ1M2M1OGM2XkEyXkFqcGdeQXVyMDA4NzMyOA-._V1_.jpg?rlkey=l65f41g3jre9g5z5j8ev1403i&dl=1",
-"photo3": "https://www.dropbox.com/scl/fi/9zmyj0l7soc4ilzfa36k2/hTOgIizTEBbN846RRtbJDbkGPEY.jpg?rlkey=86iyzw1is1seufy7i46vl2kgq&dl=1",
-"photo4": "https://www.dropbox.com/scl/fi/u66j0b2ffnpiaebwtwxvi/biX1kATZxFskWajql2hfEo8GqTd.jpg?rlkey=xewoidgrj8tz9bids348kcgru&dl=1",
-"photo5": "https://www.dropbox.com/scl/fi/op6u6pq7v83l45r44c25s/uO28ZohBXYQ35rAZCG8hacsTcV0.jpg?rlkey=6xbichw8r6v83j11am0rawv2d&dl=1",
-    "description": "
-Plane (2023)
+ယေရှု ခရစ်တော်ရဲ့ နောက်ဆုံးညစာစားပွဲနဲ့အတူ ကားစင်တင်ခံရတဲ့ စီရင်ခန်းကို သေချာနားလည်အောင် ရိုက်ပြထားတဲ့ ဘာသာရေးကားကောင်းလေးဖြစ်ပါတယ်။
+ခရစ်ယာန်ဘာသာဝင်မဟုတ်ရင် ဒီအကြောင်းတွေက ဂဃနဏ မသိကြတာများလိမ့်မယ်ဒီကားထဲမှာ ယေရှုက ရောမသားတွေရဲ့လက်မှာ တရားစီရင်ကားစင်တင်ခံရပုံနဲ့
+သူ့ရဲ့ နောက်လိုက်သာဝက ၁၂ ယောက်ရဲ့အကြောင်းတွေနဲ့အနီးကပ်ဆက်ဆံပုံတွေကို ရိုက်ပြထားတယ်။
+နောက်လိုက် ၁၂ ယောက်ထဲကမှ ယေရှုကို သစ္စာဖောက်ခဲ့တဲ့ ဂျူးဒက်စ်အစ်ကာရစ်နဲ့ စေတန်ရဲ့ လှည့်ဖြားသွေးဆောင်မှုတွေ..
+Bible ကျမ်းစာအတိုင်းရိုက်ထားတဲ့ သမိုင်းနောက်ခံကားကောင်းလေးဖြစ်ပါတယ်..
 
-မင်းသားကြီး Gerard Butler ရဲ့အသစ်ထွက်အက်ရှင်ကားလေးဖြစ်တဲ့ “Plane” ဆိုတဲ့ကားလေးကိုတင်ဆက်ပေးလိုက်ပါတယ်ဇာတ်လမ်းအကျဉ်းကတော့ တောရန့်စ်ဆိုတဲ့တော်ဝင်လေတပ်သားဟောင်းတစ်ယောက်ဟာ ပုဂ္ဂလိကခရီးသည်လေကြောင်းလမ်းမှာ
-ကပ္ပတိန်အဖြစ်တာဝန်ထမ်းဆောင်နေပါတယ် နှစ်သစ်ကူးနေ့ညမှာတော့ တောရန့်စ်ဟာ သူ့သမီးဆီကိုမပြန်ခင် တိုကျိုဘက်ကိုတစ်ခေါက်
-လေယာဉ်ပြေးဆွဲပေးရမှာပဲဖြစ်ပါတယ် တောရန့်စ်ဟာသာမန်အတိုင်းလေယာဉ်ပြေးဆွဲပြီး သမီးဆီကိုပြန်ရမယ်လို့တွေးထားခဲ့ပေမယ့်
-လက်တွေ့မှာတော့အဲဒီလိုဖြစ်မလာခဲ့ပါဘူး တောရန့်စ်တို့ရဲ့လေယာဉ်ဟာတိုကျိုကိုသွားတဲ့ခရီးလမ်းမှာ မုန်တိုင်းနဲ့မိပြီး
-ကျွန်းတစ်ခုပေါ်ကိုအရေးပေါ်ဆင်းသက်လိုက်ရပါတယ် သာမန်ဆိုရင်ကယ်ဆယ်ရေးတွေလာတဲ့အထိပုံမှန်အတိုင်းစောင့်ရုံပဲဆိုပေမယ့်
-ဒီကျွန်းပေါ်မှာလက်နက်ကိုင်ပြန်ပေးသမားတွေရှိနေတဲ့အခါမှာတော့…တောရန့်စ်တစ်ယောက်သူကိုယ်တိုင်အပါအဝင်ခရီးသည်တွေကို ဘေးကင်းကင်းနဲ့ ဒီကျွန်းပေါ်ကနေပြန်လည်ထွက်ခွာနိုင်ပါ့မလား
-ဘယ်လိုအန္တရာယ်တွေရင်ဆိုင်ရဦးမှာလဲဆိုတာကိုတော့ ဇာတ်လမ်းထဲမှာဆက်လက်စောင့်ကြည့်ပေးကြပါဦးနော်
-
-#credit",
-"rate": "6.5",
-"videosize": "865.85 MB",
-"SD": "https://www.mediafire.com/file/jkm0ax6s8nyh1en/Plane.2023.720p.mp4/file",
-"HD": "https://www.mediafire.com/file/jkm0ax6s8nyh1en/Plane.2023.720p.mp4/file",
-"year": "2023",
-"time": "107 Min"
+#Credit",
+    "rate": "4.8",
+    "HD": "https://www.dropbox.com/scl/fi/k69rb5lbkg2towjpqwkqr/The-Last-Supper-2025.mp4?rlkey=0hy85kxgyh7e1f49xygpn46w0&st=amemmr77&dl=1",
+    "year": "2025",
+    "time": "114 minutes"
   },
+  {
+    "title": "The Life List (2025)",
+    "photo1": "https://www.dropbox.com/scl/fi/k1633hrz3z78iw5a6mgbg/MV5BMjNhNzUyMTQtYTFiZS00NzM2LWI3YTgtZmI1ZTA1MDUzMzBhXkEyXkFqcGc-._V1_.jpg?rlkey=sg0ygy8s84jrdid0z012muang&st=yjgrwsu8&dl=1",
+    "photo2": "https://www.dropbox.com/scl/fi/jlz0xkeywnllu60l6rwwq/justreadingnook-thelifelist-image01.png?rlkey=xbopog4nlqxtdo4v0c8yvcz39&st=nhykc98t&dl=1",
+    "description": "The Life List (2025)
 
-{
-    "title": "Green Ghost and the Masters of the Stone (2022)",
-"photo1": "https://www.dropbox.com/scl/fi/rmzhyjtik4v2dxv7aieih/IMG_20240522_222309_597.jpg?rlkey=rhghavrour4fn9xqbblw5s0zl&dl=1",
-"photo2": "https://www.dropbox.com/scl/fi/rmzhyjtik4v2dxv7aieih/IMG_20240522_222309_597.jpg?rlkey=rhghavrour4fn9xqbblw5s0zl&dl=1",
-"photo3": "https://www.dropbox.com/scl/fi/nvf5z47dbf0vcwcrq8ekv/wxIfs2CP2aqpr6vn4ZhPCko00Rt.jpg?rlkey=8jh6b1qc3gyk9wrrxk37wcgtq&dl=1",
-"photo4": "https://www.dropbox.com/scl/fi/5h9qwgvtz2qxnm71n7utk/MV5BZGQ1ZWJkMzQtYmMyZi00MWY2LWFiZDAtZTZmNWY1Nzk1YjVhXkEyXkFqcGdeQXVyMTY2NTQ3ODc-._V1_.jpg?rlkey=zac4hq2399eoa7m3ohlag6sh6&dl=1",
-"photo5": "https://www.dropbox.com/scl/fi/v36ejozk597vs0byki5sr/yzwiAS72Mh56sEfqECPsLVcljMe.jpg?rlkey=2p1xdbum7cgj3rjs5sowjhyqm&dl=1",
-    "description": "Green Ghost and the Masters of the Stone (2022) မြန်မာစာတန်းထိုး
+Alex Rose ဟာ မိခင် Elizabeth သေဆုံးတဲ့အခါ မိခင်ရဲ့ ကြိုတင်ပြင်ထားတဲ့ “life list” (သူငယ်ရွယ်စဉ်က ဆွဲထားတဲ့ ဆုတောင်းစာရင်း) ကို ပြီးမြောက်ရမယ့်စံချိန်အတွင်း ဖြည့်စွက်ရမယ်ဆိုတဲ့အပ္ပယ်တစ်ခုမှာ မိခင်မှ ဆက်တင်ပေးထားသော ဗီဒီယိုဖိုင်များနဲ့ Brad ဆိုတဲ့အမှုထမ်းတစ်ယောက်ကကူညီပြီး Alex ကို စိန်ခေါ်မှုတွေ၊ တစ်ဝက်စိတ်ဒဏ်ရာများနဲ့ ရင်ဆိုင်ရချိန်၊ မိသားစုလျှို့ဝှက်ချက်တွေကို ရှာဖွေ၍ မိမိကိုယ်ကို အသိပညာရရှိဖို့, ချစ်ခြင်းကိုယ်တိုင်ကို ဆုံးဖြတ်ဖို့ အတွင်းပိုင်းခရီးစဉ်တစ်ခု ရောက်စေတယ်။
 
-#credit",
-"rate": "4.3",
-"videosize": "652.18 MB",
-"SD": "
-https://www.mediafire.com/file/55e60zfktugr0j9/Green.Ghost.and.the.Masters.of.the.Stone.2022.720p.mp4/file
-",
-"HD": "
-https://www.mediafire.com/file/55e60zfktugr0j9/Green.Ghost.and.the.Masters.of.the.Stone.2022.720p.mp4/file
-",
-"year": "2022",
-"time": "1 HR 20 MIN"
+ပြီးဆုံးတဲ့အချိန်မှာ သူမဟာ list များစွာကို ပြီးစီးနိုင်ပေမယ့် “true love” ဆိုတဲ့项目မှာတော့ အချိန်မီ မရောက်နိုင်ခဲ့ဘူး။ ဒါပေမယ့် မိခင်ရဲ့အိမ်ကို ဆက်လက်ရရှိပြီး မိမိအိမ္ကို ငှားနေရန်မဟုတ်ရင် ဝယ်ယူ၍ ပြန်နေထိုင်နိုင်ခွင့်ရရှိပြီး၊ Brad ကိုချစ်ထာဝရစေမယ့်သူမအတွက် အချစ်အဓိပ္ပါယ်ကို လက်တွေ့ခံစားနိုင်တဲ့နေရာထိ ရောက်စေသည့်အဆုံးကို ရောက်တယ်။
+
+#Credit",
+    "rate": "6.8",
+    "HD": "https://www.dropbox.com/scl/fi/h1nzf4jkn37hr06tw11uw/The-Life-List-2025.mkv?rlkey=y9j0bnmr8fjygsh0r2y9ohtfz&st=3rkqpqqw&dl=1",
+    "year": "2025",
+    "time": "125 minutes"
   },
+  {
+    "title": "The Monkey (2025)",
+    "photo1": "https://www.dropbox.com/scl/fi/uggz9wce49c18lhgffr98/MV5BNzZhMTc5MWUtOTE2MS00MjUwLTljYWEtYTk1ZmVjNzhmMzYzXkEyXkFqcGc-._V1_FMjpg_UX1000_.jpg?rlkey=uc6p4pj0q4849mgtfa0gwagm6&st=2nipsf0h&dl=1",
+    "photo2": "https://www.dropbox.com/scl/fi/mbqx7orhes5mfk8w3f5wn/cjZ7No0DX2L3ielLSoUOMYPw7C.jpg?rlkey=sxymzyyl2okdqcw5k2dn27qfd&st=t6ocq756&dl=1",
+    "description": "The Monkey (2025)
 
-{
-    "title": "The Man From Toronto (2022)",
-"photo1": "https://www.dropbox.com/scl/fi/0x5orb38qavufwyjtjauh/The-Man-from-Toronto-2022.jpg?rlkey=4w94fplh9rxemspj34lnbrzgf&dl=1",
-"photo2": "https://www.dropbox.com/scl/fi/0x5orb38qavufwyjtjauh/The-Man-from-Toronto-2022.jpg?rlkey=4w94fplh9rxemspj34lnbrzgf&dl=1",
-"photo3": "https://www.dropbox.com/scl/fi/f6ba85c5rk8e8dddtg9ep/xMfxmRxkVw8CgnlCUm9wAyw2rPU.jpg?rlkey=ukb9oqo5228mxmy48adf9jnn9&dl=1",
-"photo4": "https://www.dropbox.com/scl/fi/6lkm0v662xmz9gimbgzzl/kvAcjAPxukMUabtLVsCN8bHye0X.jpg?rlkey=zp5c5ydjepkuqse6j2ejvnuu3&dl=1",
-"photo5": "https://www.dropbox.com/scl/fi/2hi4jagmiuuet3y5k0kja/5F6LPXqwouG3kCsBqdqaANz3Q3n.jpg?rlkey=0djwylmg9bogijrbdug52tqs0&dl=1",
-    "description": "
-The Man From Toronto (2022)
+ဟော်ရာ စာရေးဆရာကြီး စတီဖင်ကင်းရဲ့ ဇာတ်လမ်းကို ရိုက်ကူးထားတဲ့ ရုပ်ရှင်ကားကြီးတစ်ကားထွက်လာပါပြီ။ မူရင်းရုံတင်တုန်းက အချို့နိုင်ငံတွေမှာ အရမ်းကြမ်းတမ်းလွန်းတဲ့အခန်းတွေကို ဆင်ဆာဖြတ်ထားပေးလိုက်ရပါတယ်။ အခု ဗားရှင်းကတော့ အကုန်ကွက်ကွက်ကွင်းကွင်းပါတဲ့ဗားရှင်းမို့ ဟော်ရာဖန်တွေ အဝကြည့်ရမှာပါ။ dark comedy, horror ဖြစ်လို့ ပိုးစက်ပက်စက်တွေ ရှောကုန်သလို ရယ်လည်းရယ်ရပါတယ်။ မင်းသားကတော့ Divergent ရုပ်ရှင်တွေနဲ့လူသိများတဲ့ Theo James ပါပဲ။ဇာတ်လမ်းအကျဉ်းဟဲလ်နဲ့ဘီလ်ရှယ်ဘွန်းတို့ဟာ အချိန် ၃ မိနစ်ပဲခြားတဲ့ အမြွှာညီအစ်ကိုတွေပါ။ သူတို့အမေရဲ့ ပြောစကားအရတော့ သူတို့ရဲ့ အဖေက ဆေးလိပ် သွားဝယ်ဦးမယ်လို့ ပြောထွက်သွားပြီး အိမ်ကို ပြန်မလာတော့ဘူးဆိုတာပါပဲ။ ဟဲလ်နဲ့ ဘီလ်က အမြွှာညီအစ်ကိုဆိုပေမဲ့ တခြားအမြွှာတွေလို ချစ်ချစ်ခင်ခင် မရှိပါဘူး။ ဘီလ်က ဟဲလ်ကို အခွင့်ရရင် ရသလို အနိုင်ကျင့်တတ်ပါတယ်။သူတို့အဖေရဲ့ ပစ္စည်းတွေကို ဟဲလ်တို့အမေက အမှိုက်တွေလို့ထင်ပေမဲ့ အမြွှာညီအစ်ကိုအတွက်တော့ ဒါတွေက သူတို့အဖေ ဘယ်လိုလူလဲဆိုတာကို သိနိုင်ဖို့ အခွင့်အရေးတွေလို့ သူတို့က မြင်ကြတယ်
 
-ဒီတစ်ခါမှာComedyဇာတ်ကားတွေ ကြိုက်နှစ်သက်သူတွေကြည့်သင့်တဲ့Action-Comedy ကားလေးဖြစ်တဲ့
-The Man From Toronto (2022) ကိုတင်ဆက်ပေးချင်ပါတယ်..Comdey သရုပ်ဆောင် kevin Heartက
-အဓိက ပါဝင်သရုပ်ဆောင်ထားတာဖြစ်လို့ ဘယ်လောက်ရီရလဲပြောဖို့မလိုလောက်ပါဘူးနော်..
-Hitman Bodyguard နဲ့လဲအတော်လေးဆင်တာမလို့ လက်မလွှတ်တမ်းကြည့်သင့်တယ်လို့ ညွှန်းပါရစေ ၊
+#Credit",
+    "rate": "6.0",
+    "HD": "https://www.dropbox.com/scl/fi/eibwxphyxx8go9qlkjzv9/The-Monkey-2025.mkv?rlkey=eo3y2fvweb1r8nojya1z1q9df&st=klq7slk3&dl=1",
+    "year": "2025",
+    "time": "97 minutes"
+  },
+  {
+    "title": "The Reluctant Royal (2025)",
+    "photo1": "https://www.dropbox.com/scl/fi/251hyogx9al63z63clqg4/MV5BYjMwMjE0NTItODRmYS00YTI3LWIyZmYtOGM4OTIzZGRmOWZlXkEyXkFqcGc-._V1_FMjpg_UX1000_.jpg?rlkey=y6unhhio001lbaw11ab9jgx6c&st=p76lonae&dl=1",
+    "photo2": "https://www.dropbox.com/scl/fi/0ezjn507dcbwljp81pk0f/nBVWb2lUepsAMODacHfv52mMMiY.jpg?rlkey=o9uzf3fv2r3jd1e0tbhlzri9u&st=t8ibs1s8&dl=1",
+    "description": "The Reluctant Royal (2025)
 
-ဇာတ်လမ်းလေးကတော့ တက်ဒီဆိုတဲ့သူကတော့ ဘာလုပ်လုပ်တလွဲဖြစ်နေတဲ့သူပါ။
-တစ်နေ့မလွဲရင်မလုပ်တက်တဲ့ တက်ဒီဆိုတဲ့လူတစ်ယောက် သူ့မိန်းမမွေးနေ့အတွက် အပျော်ခရီးထွက်ရာကနေ သူ့မိန်းမကို surprise လုပ်ဖို့
-ငှားထားတဲ့အိမ်ကို သူတစ်ယောက်တည်းအရင်သွားရင်းကတက်ဒီတစ်ယောက် အိမ်နံပါတ်လွဲဝင်ရင်း ဒုက္ခ‌တွင်းထဲကျပါတော့တယ်။
-ဖြစ်ချင်တော့အဲ့ဒီအိမ်ကို လာမယ့်လူက တိုရွန်တိုလို့ခေါ်တဲ့ ကြေးစားလူသတ်သမားဖြစ်ပြီး Clientတိုင်းက သဘောကျတဲ့ကြေးစားပါ။
-သူ မရောက်ခင်တက်ဒီက ကြိုရောက်ရှိသွားတဲ့အခါမှာတော့ အဲ့ဒီမှာရှိနေတဲ့လူတစ်စုက တက်ဒီကို သူတို့အလုပ်အပ်ထားတဲ့ တိုရွန်တို လို့ထင်ပြီး
-သူတို့ဖမ်းထားတဲ့လူကိုစစ်မေးခိုင်းပါတော့တယ် ။ အဲ့လိုနဲ့ တက်ဒီတစ်ယောက် မယောင်မလည်နဲ့ သူ့ကိုယ်သူ တိုရွန်တိုအဖြစ်ဟန်ဆောင်ပြီး ဘာတွေဆက်လွဲမလဲ
-တိုရွန်တိုနဲ့တက်ဒီတို့တွေ့ကြရင်း ပြဿနာတွေ‌ဖြေရှင်းကြတာကို ဆက်လက်ကြည့်ရှုလိုက်ကြပါဦး
+ဒီဇာတ်လမ်းလေးကတော့ ရိုးမန့်ဒရာမာကားတစ်ကားဖြစ်ပါတယ်။ ဂျော်နီလို့ခေါ်တဲ့ စက်ပြင်ဆရာကောင်လေးတစ်ယောက်ဟာ အမေတစ်ခုသားတစ်ခုဘဝနဲ့ ကြီးပြင်းလာရင်းနဲ့ ဘဝကိုရိုးရိုးရှင်းရှင်းဖြတ်သန်းနေခဲ့သူပါ။
+တစ်ရက်မှာတော့ မထင်မှတ်ထားဘဲ အမျိုးသမီးတစ်ဦးဆီက သူ့အဖေဟာ အင်္ဂလန်ကမြို့စားကြီးတစ်ဦးဖြစ်ပြီး သူ့ကိုအမွေဆက်ခံဖို့ဆင့်ခေါ်နေကြောင်းသိလိုက်ရချိန်မှာ ဂျော်နီတစ်ယောက်ရဲ့ဘဝကြီး ဘယ်လိုတွေပြောင်းပြန်လှန်ပြစ်သလို ပြောင်းလဲသွားမှာလဲ တစ်သက်လုံးပျောက်နေပြီး ခုမှပြန်ပေါ်လာတဲ့ အဖေကရော ဘယ်လိုလူမျိုးလဲ အမွေဆက်ခံမှုကရော သူကြားရသလိုရိုးရှင်းလွယ်ကူနေပါ့မလားဆိုတာကို ဇာတ်လမ်းလေးထဲမှာကြည့်ရှုခံစားရမှာပဲဖြစ်ပါတယ်
 
-Reviewed and translated by – Dk",
-"rate": "5.7",
-"videosize": "888.89 MB",
-"SD": "https://www.mediafire.com/file/c8hm2ugartxs8cn/The.Man.From.Toronto.2022.720p.mp4/file",
-"HD": "https://www.mediafire.com/file/c8hm2ugartxs8cn/The.Man.From.Toronto.2022.720p.mp4/file",
-"year": "2022",
-"time": "110 Min"
+#Credit",
+    "rate": "7.0",
+    "HD": "https://www.dropbox.com/scl/fi/bpvoxwx32kzwz18lj1dcp/The-Reluctant-Royal-2025.mp4?rlkey=23vzl1rt80kqlbaq1zflti6l3&st=wcdxm4lt&dl=1",
+    "year": "2025",
+    "time": "84 minutes"
+  },
+  {
+    "title": "Uppercut (2025)",
+    "photo1": "https://www.dropbox.com/scl/fi/uysscm7vj2xcyps2xlbai/MV5BMWQ1ZjNiMzQtMzM3ZS00NWRjLWJhNjEtNmY3YTg3MzkzYjgzXkEyXkFqcGc-._V1_.jpg?rlkey=st3ou5gp3dm1ebda09i65lsw9&st=q4so7eyq&dl=1",
+    "photo2": "https://www.dropbox.com/scl/fi/dl6sp2eggv4b029ubr2nu/f7982826a597a55da6bb6799c03fe272c668eb7ba6346e3d42453cb5c94126ec.jpg?rlkey=1y1v84zdnv14fyky7vhv2zu1b&st=3oaowlho&dl=1",
+    "description": "Uppercut (2025)
+
+တိုက်ပွဲလို့ခေါ်တဲ့ စင်မြင့်ပေါ်က တိုးနှပ်ချက်တွေကို သင်ခန်းစာယူပြီး လက်ဝှေ့သမားဖြစ်ဖို့ အားကစား လေ့ကျင့်ခန်းလုပ်ရုံနဲ့တင် မဖြစ်နိုင်ကြောင်း သိရှိထားတဲ့ အဲလီးယက်ဟာ ပွဲစဥ်တစ်ခုမှာ ရှုံးနိမ့်သွားတာကြောင့် လက်ဝှေ့သမားဘဝကနေ အနားယူခဲ့တယ်။ တိုနီလို့ခေါ်တဲ့ ကောင်မလေးတစ်ယောက်က ပတ်ဝန်းကျင်ရဲ့ ကန့်သတ်ချက်တွေကို လျစ်လျှူရှုပြီး လက်ဝှေ့သမားတစ်ယောက် ဖြစ်ချင်နေခဲ့ပါတယ်။
+ဒီလိုနဲ့ တိုနီတစ်ယောက် အဲလီးယက်ရှိတဲ့ အားကစားရုံကိုလာပြီး သူ့ကိုလေ့ကျင့်ပေးစေချင်ကြောင်း ပြောလာတဲ့အခါမှာ လက်ဝှေ့သမားတစ်ယောက်ဆိုတာ ခန္ဓာကိုယ်တောင့်တင်းရုံနဲ့ မရကြောင်း လက်ဝှေ့သမားဖြစ်ဖို့ …… Habitude ဆိုတဲ့ အလေ့အကျင့် Agility ဆိုတဲ့အလျှင်နဲ့ Graditude ဆိုတဲ့ကျေးဇူးသိတတ်၊ကျေးဇူးတင်တတ်ခြင်းတို့ကို စွဲစွဲမြဲမြဲမှတ်ထားသင့်ကြောင်း ပြောပြလာခဲ့ပြီး တိုနီကို လေ့ကျင့်ပေးဖို့ လက်ခံလိုက်ပါတယ်။ ဒီလိုနဲ့ အဲလီးယက် ပထမဦးဆုံး လေ့ကျင့်ပေးမည့် မိန်းကလေးလက်ဝှေ့သမားဖြစ်တဲ့ တိုနီ့မှာ ဘယ်လိုနောက်ကြောင်းတွေ ရှိခဲ့လဲဆိုတာတော့
+
+#Credit",
+    "rate": "3.5",
+    "HD": "https://www.dropbox.com/scl/fi/9ol0zfshdaq9q46x55jq4/Uppercut-2025.mp4?rlkey=vcvk8ep59se5kvjj4240egrny&st=oxn9no0b&dl=1",
+    "year": "2025",
+    "time": "104 minutes"
+  },
+  {
+    "title": "Venom The Last Dance (2024)",
+    "photo1": "https://www.dropbox.com/scl/fi/2gmr02oa9d4u5c47610m2/MV5BZDMyYWU4NzItZDY0MC00ODE2LTkyYTMtMzNkNDdmYmFhZDg0XkEyXkFqcGc-._V1_FMjpg_UX1000_.jpg?rlkey=qnwwo70tthdxm3e8xc4x97xbi&st=djpjrdsg&dl=1",
+    "photo2": "https://www.dropbox.com/scl/fi/4h2u3vtwtrqywgwxg5asw/maxresdefault-3.jpg?rlkey=ac0xdq2unqb6sklbleb6dxiql&st=0ptxdyzl&dl=1",
+    "description": "Venom: The Last Dance (2024)
+
+မာဗယ် စူပါဟီးရိုးမကျဗီလိန်မကျ ဇာတ်ကောင်ဖြစ်တဲ့ ဗဲနွမ်သုံးကားမြောက်လာပြီ။ ဒါရိုက်တာက ၁ တုန်းကလိုပဲKelly Marcel ပါ။ မင်းသားကလည်း တွမ်ဟာဒီ ပါပဲ။ဗဲနွမ် အသံသရုပ်ဆောင်အဖြစ်လည်း တွမ်ဟာဒီပဲ
+လုပ်ပေးထားတာပါ။ ဆိုနီအတွက် နောက်ဆုံး ဗဲနွမ်ရုပ်ရှင်လိုလည်းဆိုပါတယ်။
+
+ဇာတ်လမ်းအကျဉ်း- စကြဝဠာကြီးထက်တောင် ရှေးကျတဲ့ နောလ် ဆိုတဲ့ဆင်ဘီအုတ်တွေရဲ့ ဖန်တီးရှင်ကြီးဟာ ဆိုးသွမ်းလွန်းလိုဆင်ဘီအုတ်တွေ ကိုယ်တိုင်က ပြန်အကျဉ်းချထားရတာပါ။သူသာလွတ်လာရင် ဂြိုလ်တွေအကုန် ဖျက်ဆီးပစ်မှာမိုပါပဲ။သူလွတ်လာဖိုကလည်း ကိုဒက်စ်ဆိုတဲ့ သော့ချက်ကိုလိုပြီးအဲဒီသော့ကတော့ ထုံးစံအတိုင်း အက်ဒီ နဲ့ ဗဲနွမ်တို နှစ်ကောင်ဆီရောက်နေပြန်ပါတယ်။
+
+ဒါကို လိုက်ရှာဖိုအတွက် ဇယ်နိုဖာ့ဂျ်ဆိုတဲ့ မုဆိုးကိုလွှတ်လိုက်ပါတယ်။ဒီတော့ ကိုဒက်စ်ကိုမရအောင် ဆင်ဘီအုတ်တစ်သိုက်နဲ့ဗဲနွမ်တို ဘယ်လို လွတ်အောင် ပြေးရင် ပြန်တိုက်ခိုက်ကြမလဲဆိုတာဒီမှာ တွေ့ရပါလိမ့်မယ်။
+
+#Credit",
+    "rate": "6.2",
+    "HD": "https://www.dropbox.com/scl/fi/qhdcqdxbif3lco7ose0g7/Venom-The-Last-Dance-2024.mp4?rlkey=kt6ccnpmnswqy8xx1s4r2aqff&st=rsmbsve8&dl=1",
+    "year": "2024",
+    "time": "110 minutes"
   }
 
 ]
