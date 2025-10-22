@@ -1,0 +1,14 @@
+{
+  "visible": true,
+  "logo": "https://yourdomain.com/app_logo.png",
+  "title": "New Update Available!",
+  "description": "We’ve added new features and improved performance. Please update now!",
+  "button_text": "Update Now",
+  "update_url": "https://play.google.com/store/apps/details?id=com.example.appupdate",
+
+  "rating_visible": true,
+  "rating_title": "Enjoy using our app?",
+  "rating_description": "Please support us by giving 5 stars on Play Store!",
+  "rating_button_text": "Rate Now",
+  "rating_url": "https://play.google.com/store/apps/details?id=com.example.appupdate"
+}
