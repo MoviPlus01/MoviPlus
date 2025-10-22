@@ -6,7 +6,7 @@
   "button_text": "Update Now",
   "update_url": "https://play.google.com/store/apps/details?id=com.example.appupdate",
 
-  "rating_visible": true,
+  "rating_visible": false,
   "rating_title": "Enjoy using our app?",
   "rating_description": "Please support us by giving 5 stars on Play Store!",
   "rating_button_text": "Rate Now",
