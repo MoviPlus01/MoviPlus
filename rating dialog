@@ -1,6 +1,6 @@
 {
   
-  "rating_visible": false,
+  "rating_visible": true,
   "logo": "https://yourdomain.com/app_logo.png",
   "rating_title": "Enjoying our app?",
   "rating_description": "Please take a moment to rate us 5 stars on Play Store!",
