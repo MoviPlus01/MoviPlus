@@ -1,6 +1,6 @@
 {
   "update_dialog": {
-    "visible": true,
+    "visible": false,
     "logo": "https://www.dropbox.com/scl/fi/tp94fr0lv2efwn8uuzmr7/updated.png?rlkey=v3c2mmi0ulo9qarn1g2ko795w&st=0skynuvg&dl=1",
     "title": "New Update Available!",
     "description": "Version 2.0 includes new UI improvements and bug fixes.",
