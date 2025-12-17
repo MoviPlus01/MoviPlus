@@ -1,9 +1,18 @@
 {
   "update_dialog": {
-    "visible": false,
+    "visible": true,
     "logo": "https://www.dropbox.com/scl/fi/tp94fr0lv2efwn8uuzmr7/updated.png?rlkey=v3c2mmi0ulo9qarn1g2ko795w&st=0skynuvg&dl=1",
-    "title": "New Update Available!",
-    "description": "Version 2.0 includes new UI improvements and bug fixes.",
-    "updateLink": "https://play.google.com/store/apps/details?id=com.yourapp.package"
+    "title": "🔔 New Update Available",
+    "description": "Movi Plus – Version 1.0.4
+
+အသုံးပြုသူများအတွက် UI ကို ပိုမိုလှပ၍
+အသုံးပြုရလွယ်ကူအောင် ပြောင်းလဲထားပါသည်။
+
+🎬 Video Player နှင့်ပတ်သက်သော ပြဿနာများကို ပြုပြင်ထားပြီး
+⬇️ Download စနစ်ကို ပိုမိုတည်ငြိမ်စေရန် မြှင့်တင်ထားပါသည်။
+
+ပိုမိုကောင်းမွန်သော အသုံးပြုမှုအတွေ့အကြုံကို ရရှိနိုင်ရန်
+Version အသစ်သို့ Update ပြုလုပ်ပြီး အသုံးပြုကြပါရန် အကြံပြုအပ်ပါသည်။",
+    "updateLink": "https://play.google.com/store/apps/details?id=com.app.moviplus"
   }
 }
