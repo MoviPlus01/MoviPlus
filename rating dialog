@@ -1,10 +1,12 @@
 {
   
-  "rating_visible": false,
-  "logo": "https://www.dropbox.com/scl/fi/2l0vuf4n0x7ercaii7ruv/customer-review.png?rlkey=xq3rt1b5edvi6emeetpzx6gt0&st=h8awpi6u&dl=1",
-  "rating_title": "Enjoying our app?",
-  "rating_description": "Please take a moment to rate us 5 stars on Play Store!",
-  "rating_button_text": "Rate Now",
-  "rating_url": "https://play.google.com/store/apps/details?id=com.app.moviplus"
+  "rating_visible": true,
+  "logo": "https://www.dropbox.com/scl/fi/f7kw0zvpl69louu1u69ps/telegram-app-icon-blue-circle-paper-airplane-digital-messaging-communication-isolated-on-transparent-white-background-free-png.png?rlkey=i73r1mcgh7hng8jaoh9cik2zt&st=ugsq1may&dl=1",
+  "rating_title": "Telegram Channel",
+  "rating_description": "App Update အသစ်များ၊ Feature အသစ်များကို အချိန်နှင့်တပြေးညီ သိစေရန်အတွက် telegram  Channel လေကို Join ထားပေးပါအုံးဗျ😉
+
+ချယ်နယ်ကို Mute မလုပ်ဘဲ ထားပေးပါရန် လေးစားစွာ မေတ္တာရပ်ခံအပ်ပါသည်။🙇‍♂️",
+  "rating_button_text": "Join",
+  "rating_url": "https://t.me/moviplusofficial"
   
 }
