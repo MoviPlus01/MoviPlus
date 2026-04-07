@@ -24,7 +24,8 @@
     "rate": "5.2",
     "HD": "https://www.dropbox.com/scl/fi/r6xvzb9z1k3i349lfzitg/Water-Monster-2019.mp4?rlkey=5h6anc4vajrxu1nmxpqu3a2tc&st=r380vfjy&dl=1",
     "year": "2019",
-    "time": "85 minutes"
+    "time": "85 minutes",
+    "genre": ["Action", "Drama", "Comedy"]
   },
 {
     "title": "Shanghai Fortress",
