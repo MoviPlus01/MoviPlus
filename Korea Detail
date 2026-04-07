@@ -13,7 +13,8 @@
     "rate": "6.8",
     "HD": "https://www.dropbox.com/scl/fi/mavuqx8ncohe2sf9kq740/The-Suspect-2013.mp4?rlkey=a1y4nh9gnxuw6gmddzjdh6dc9&st=c4k45dyk&dl=1",
     "year": "2013",
-    "time": "137 minutes"
+    "time": "137 minutes",
+   "genre": ["Action", "Drama", "Comedy"]
   },
 {
     "title": "My First Client",
