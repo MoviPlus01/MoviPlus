@@ -11,7 +11,8 @@
     "rate": "7.8",
     "HD": "https://www.dropbox.com/scl/fi/x40g6k44wd1qfel51lvdn/English-Vinglish-2012.mp4?rlkey=mt0qkkaqpqtuzmwjwruaylm3u&st=u0p8wayl&dl=1",
     "year": "2012",
-    "time": "134 minutes"
+    "time": "134 minutes",
+    "genre": ["Action", "Drama", "Comedy"]
   },
 {
     "title": "Ikkis",
