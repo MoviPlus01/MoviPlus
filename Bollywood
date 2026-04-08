@@ -11,7 +11,7 @@
     "rate": "7.8",
     "HD": "https://www.dropbox.com/scl/fi/x40g6k44wd1qfel51lvdn/English-Vinglish-2012.mp4?rlkey=mt0qkkaqpqtuzmwjwruaylm3u&st=u0p8wayl&dl=1",
     "year": "2012",
-    "time": "134 minutes",
+    "time": "134",
     "genre": ["Action", "Drama", "Comedy"],
 "File_Size": "1.7 GB"
   },
@@ -33,7 +33,7 @@
     "rate": "3.5",
     "HD": "https://www.dropbox.com/scl/fi/1omxg9ebpi6khz5t7ombx/Ikkis-2026.mp4?rlkey=psjzf8otnmg5hsuat30e3ylk4&st=hvbrwblh&dl=1",
     "year": "2026",
-    "time": "148 minutes"
+    "time": "148"
   },
 {
     "title": "Dunki",
@@ -52,7 +52,7 @@
     "rate": "6.5",
     "HD": "https://www.dropbox.com/scl/fi/ty0hfc9ur3nu4nhy1vtw8/Dunki-2023.mp4?rlkey=p2hgevpm2fl4l8xx781v0j65y&st=amimsxnn&dl=1",
     "year": "2023",
-    "time": "159 minutes"
+    "time": "159"
   },
 {
     "title": "Costao",
@@ -71,7 +71,7 @@
     "rate": "6.4",
     "HD": "https://www.dropbox.com/scl/fi/5zx3ncr3vepy2zsyecp14/Costao-2025.mp4?rlkey=1z5a1uvs5h233mum6os4qf9tv&st=louhukhc&dl=1",
     "year": "2025",
-    "time": "125 minutes"
+    "time": "125"
   },
 {
     "title": "Sanju",
@@ -85,7 +85,7 @@
     "rate": "7.6",
     "HD": "https://www.dropbox.com/scl/fi/p7x24ubfym3wy82wmwvmz/Sanju-2018.mp4?rlkey=ho8i8xmtl4fbp5gzu3ks1hlmg&st=13ff2ix0&dl=1",
     "year": "2018",
-    "time": "161 minutes"
+    "time": "161"
   },
 {
     "title": "Pk",
@@ -102,6 +102,6 @@
     "rate": "8.1",
     "HD": "https://www.dropbox.com/scl/fi/lehn12kxs3x505u7gmhqm/Pk-2014.mp4?rlkey=5xm6g861kg1u6o8ad7f8z09i0&st=y3xmyh4p&dl=1",
     "year": "2014",
-    "time": "153 minutes"
+    "time": "153"
   }
 ]
