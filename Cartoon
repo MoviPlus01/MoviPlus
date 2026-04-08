@@ -18,7 +18,7 @@
     "rate": "6.9",
     "HD": "https://www.dropbox.com/scl/fi/ts7l61itfom26zy97suri/Goat-2026.mp4?rlkey=mmxk1hln33yea5soyc5f9azdd&st=kvc85bhd&dl=1",
     "year": "2026",
-    "time": "100 minutes",
+    "time": "100",
     "genre": ["Action", "Drama", "Comedy"],
 "File_Size": "1.7 GB"
   },
@@ -36,7 +36,7 @@
     "rate": "6.3",
     "HD": "https://www.dropbox.com/scl/fi/flo7ryffjmmcoufomtn7u/Kung-Fu-Panda-4-2025.mp4?rlkey=g6oj9ghcsgulviqatr93gzhiy&st=2djksxa3&dl=1",
     "year": "2024",
-    "time": "94 minutes"
+    "time": "94"
   },
 {
     "title": "Megamind",
@@ -52,7 +52,7 @@
     "rate": "2.4",
     "HD": "https://www.dropbox.com/scl/fi/tziwncca9y0gc611s00ng/Megamind-2024.mp4?rlkey=la3pe937rlbffvwiq88hyioux&st=bzryd02w&dl=1",
     "year": "2024",
-    "time": "83 minutes"
+    "time": "83"
   },
 {
     "title": "Suzume",
@@ -75,7 +75,7 @@ Suzumeဟာ အဒေါ်နဲ့အတူနေထိုင်တဲ့ မ
     "rate": "7.6",
     "HD": "https://www.dropbox.com/scl/fi/bbjh8g9ind30ws9ak7xkh/Suzume-2022.mp4?rlkey=astavzfy2ykuakc5n1kisrhtz&st=eq7yicdu&dl=1",
     "year": "2022",
-    "time": "122 minutes"
+    "time": "122"
   },
 {
     "title": "Storks",
@@ -89,7 +89,7 @@ Suzumeဟာ အဒေါ်နဲ့အတူနေထိုင်တဲ့ မ
     "rate": "6.8",
     "HD": "https://www.dropbox.com/scl/fi/6z37jkjmrqzrdldh93191/Storks-2016.mp4?rlkey=9bkteb0ylyi01mj9tx8cmgvid&st=ci1mqd17&dl=1",
     "year": "2016",
-    "time": "87 minutes"
+    "time": "87"
   },
 {
     "title": "Spermageddon",
@@ -105,6 +105,6 @@ IMDb မှာ 5.5/10 ရထားပြီး Annecy Animation Festival မှ�
     "rate": "5.4",
     "HD": "https://www.dropbox.com/scl/fi/t59f9zxvc997kxiqgtosj/Spermageddon-2024.mp4?rlkey=b179rputr6n4k1g88yl2wjm2i&st=zeyqzr4j&dl=1",
     "year": "2024",
-    "time": "80 minutes"
+    "time": "80"
   }
 ]
