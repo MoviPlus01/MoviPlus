@@ -15,7 +15,7 @@
     "rate": "5.2",
     "HD": "https://www.dropbox.com/scl/fi/jwmu9ujmax58bsb6kxtu5/Dark-Nuns-2025.mp4?rlkey=o3fizvxghol4wuy83dj2e3f1f&st=44m82sy9&dl=1",
     "year": "2025",
-    "time": "115 minutes",
+    "time": "115",
     "genre": ["Action", "Drama", "Comedy"],
 "File_Size": "1.7 GB"
   },
@@ -33,7 +33,7 @@
     "rate": "6.7",
     "HD": "https://www.dropbox.com/scl/fi/0e5r2ka9y7o5ltrxkx8nv/Love-Reset-2023.mp4?rlkey=tdrfoe3lcqyjm2rwlth7wzjp2&st=6stgovw0&dl=1",
     "year": "2023",
-    "time": "119 minutes"
+    "time": "119"
   },
 {
     "title": "20th Century Girl",
@@ -53,7 +53,7 @@
     "rate": "7.4",
     "HD": "https://www.dropbox.com/scl/fi/8mf1ldh4jtqdbrlt2yq9p/20th-Century-Girl-2022.mp4?rlkey=8lh5nmaxajflzqz690ododzzv&st=80m965pn&dl=1",
     "year": "2022",
-    "time": "119 minutes"
+    "time": "119"
   },
 {
     "title": "Marriage Blue",
@@ -73,7 +73,7 @@
     "rate": "6.1",
     "HD": "https://www.dropbox.com/scl/fi/3dyv6lpqzi1twrtzn4cdr/Marriage-Blue-2013.mp4?rlkey=g6su977xrctts8hq1iuqphbe0&st=ocekg73r&dl=1",
     "year": "2013",
-    "time": "118 minutes"
+    "time": "118"
   },
 {
     "title": "Hope",
@@ -87,7 +87,7 @@
     "rate": "8.2",
     "HD": "https://www.dropbox.com/scl/fi/yi0z0uidz0ytrmg9czaaj/Hope-2013.mp4?rlkey=5beazcjbrzq4hzyjcf4iq8e56&st=72tds1xn&dl=1",
     "year": "2013",
-    "time": "122 minutes"
+    "time": "122"
   },
 {
     "title": "The Roundup: No Way Out",
@@ -105,6 +105,6 @@
     "rate": "6.6",
     "HD": "https://www.dropbox.com/scl/fi/f1jteefjjf57xx1s9ehcz/The-Roundup-No-Way-Out-2023.mp4?rlkey=qliaerc6ims0xw23hv6v0kqrm&st=s35xgvwy&dl=1",
     "year": "2023",
-    "time": "105 minutes"
+    "time": "105"
   }
 ]
