@@ -1,11 +1,9 @@
 {
   "update_dialog": {
-    "visible": false,
-    "logo": "https://www.dropbox.com/scl/fi/f7kw0zvpl69louu1u69ps/telegram-app-icon-blue-circle-paper-airplane-digital-messaging-communication-isolated-on-transparent-white-background-free-png.png?rlkey=i73r1mcgh7hng8jaoh9cik2zt&st=hysgl301&dl=1",
-    "title": "Telegram Channel",
-    "description": "App Update အသစ်များ၊ Feature အသစ်များကို အချိန်နှင့်တပြေးညီ သိစေရန်အတွက် telegram  Channel လေကို Join ထားပေးပါအုံးဗျ😉
-
-ချယ်နယ်ကို Mute မလုပ်ဘဲ ထားပေးပါရန် လေးစားစွာ မေတ္တာရပ်ခံအပ်ပါသည်။ 🙇‍♂️",
-    "updateLink": "https://t.me/moviplusofficial"
+    "visible": true,
+    "logo": "https://www.dropbox.com/scl/fi/tp94fr0lv2efwn8uuzmr7/updated.png?rlkey=v3c2mmi0ulo9qarn1g2ko795w&st=hrjl0w9p&dl=1",
+    "title": "ပိုမိုကောင်းမွန်တဲ့ ဗားရှင်းအသစ် ထွက်ရှိပါပြီ!",
+    "description": "Movi Plus ကို UI အသစ်၊ မြန်မာစာစနစ်တို့နဲ့ ပိုမိုမြန်ဆန်အောင် ပြင်ဆင်ထားပါတယ်။ အဆင်ပြေပြေ အသုံးပြုနိုင်ဖို့ အခုပဲ Version အသစ်ကို ရယူလိုက်ပါ။",
+    "updateLink": "https://play.google.com/store/apps/details?id=com.app.moviplus"
   }
 }
